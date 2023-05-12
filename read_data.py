@@ -1,19 +1,27 @@
-# read_data.py
+# read_matches.py
 
 import requests
 import json
 from match import Match
 
-uri = 'https://api.football-data.org/v4/competitions/PL/matches'
-headers = { 'X-Auth-Token': '13b41abb78284b7482713f316a0e3578' }
+# See API ocumentation for options available: https://docs.football-data.org/general/v4/index.html
+league = 'PL' 
+season = '2021'
+
+uri = 'https://api.football-data.org/v4/competitions/{}/matches?season={}'.format(league, season)
+headers = { 
+    'X-Auth-Token': '13b41abb78284b7482713f316a0e3578',
+           }
 
 def parse_match(json_response):
     matches = []
     for m in json_response:
         match = {}
         match['league'] = m['competition']['name']
-        match['season'] = m['season']['startDate']
+        match['season_start'] = m['season']['startDate']
+        match['season_end'] = m['season']['endDate']
         match['date'] = m['utcDate']
+        match['status'] = m['status']
         match['matchday'] = m['matchday']
         match['home_team'] = m['homeTeam']['name']
         match['home_team_short'] = m['homeTeam']['shortName']
@@ -31,16 +39,11 @@ def parse_match(json_response):
 response = requests.get(uri, headers=headers)
 matches_dict = parse_match(response.json()['matches'])
 
-# matches = []
-# for m in matches_dict:
-#     match = Match()
-#     for item in m:
-#         match.item = m[item]
-#     matches.append(match)
-
 matches = [ Match(d['league'], 
-                  d['season'], 
+                  d['season_start'],
+                  d['season_end'], 
                   d['date'],
+                  d['status'],
                   d['matchday'],
                   d['home_team'],
                   d['home_team_short'],
