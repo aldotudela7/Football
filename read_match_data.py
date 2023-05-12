@@ -1,4 +1,4 @@
-# read_matches.py
+# read_match_data.py
 
 import requests
 import json
