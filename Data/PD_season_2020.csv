@@ -1,0 +1,381 @@
+league,season_start,season_end,date,status,matchday,home_team,home_team_short,home_team_code,away_team,away_team_short,away_team_code,home_team_score,away_team_score,home_team_halfscore,away_team_halfscore
+Primera Division,2020-09-12,2021-05-23,2020-09-12T14:00:00Z,FINISHED,1,SD Eibar,Eibar,EIB,RC Celta de Vigo,Celta,CEL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-12T16:30:00Z,FINISHED,1,Granada CF,Granada,GRA,Athletic Club,Athletic,ATH,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-12T19:00:00Z,FINISHED,1,Cádiz CF,Cádiz CF,CAD,CA Osasuna,Osasuna,OSA,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-09-13T12:00:00Z,FINISHED,1,Deportivo Alavés,Alavés,ALA,Real Betis Balompié,Real Betis,BET,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-13T14:00:00Z,FINISHED,1,Real Valladolid CF,Valladolid,VDD,Real Sociedad de Fútbol,Real Sociedad,RSO,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-09-13T16:30:00Z,FINISHED,1,Villarreal CF,Villarreal,VIL,SD Huesca,Huesca,HUE,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-09-13T19:00:00Z,FINISHED,1,Valencia CF,Valencia,VAL,Levante UD,Levante,LEV,4,2,2,2
+Primera Division,2020-09-12,2021-05-23,2020-09-19T14:00:00Z,FINISHED,2,Villarreal CF,Villarreal,VIL,SD Eibar,Eibar,EIB,2,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-19T16:30:00Z,FINISHED,2,Getafe CF,Getafe,GET,CA Osasuna,Osasuna,OSA,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-19T19:00:00Z,FINISHED,2,RC Celta de Vigo,Celta,CEL,Valencia CF,Valencia,VAL,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-09-20T14:00:00Z,FINISHED,2,SD Huesca,Huesca,HUE,Cádiz CF,Cádiz CF,CAD,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-09-20T16:30:00Z,FINISHED,2,Real Betis Balompié,Real Betis,BET,Real Valladolid CF,Valladolid,VDD,2,0,2,0
+Primera Division,2020-09-12,2021-05-23,2020-09-20T16:30:00Z,FINISHED,2,Granada CF,Granada,GRA,Deportivo Alavés,Alavés,ALA,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-09-20T19:00:00Z,FINISHED,2,Real Sociedad de Fútbol,Real Sociedad,RSO,Real Madrid CF,Real Madrid,RMA,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-26T11:00:00Z,FINISHED,3,Deportivo Alavés,Alavés,ALA,Getafe CF,Getafe,GET,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-26T14:00:00Z,FINISHED,3,Valencia CF,Valencia,VAL,SD Huesca,Huesca,HUE,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-09-26T16:30:00Z,FINISHED,3,Elche CF,Elche,ELC,Real Sociedad de Fútbol,Real Sociedad,RSO,0,3,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-26T19:00:00Z,FINISHED,3,Real Betis Balompié,Real Betis,BET,Real Madrid CF,Real Madrid,RMA,2,3,2,1
+Primera Division,2020-09-12,2021-05-23,2020-09-27T10:00:00Z,FINISHED,3,CA Osasuna,Osasuna,OSA,Levante UD,Levante,LEV,1,3,1,1
+Primera Division,2020-09-12,2021-05-23,2020-09-27T12:00:00Z,FINISHED,3,SD Eibar,Eibar,EIB,Athletic Club,Athletic,ATH,1,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-09-27T14:00:00Z,FINISHED,3,Club Atlético de Madrid,Atleti,ATL,Granada CF,Granada,GRA,6,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-09-27T16:30:00Z,FINISHED,3,Real Valladolid CF,Valladolid,VDD,RC Celta de Vigo,Celta,CEL,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-09-27T16:30:00Z,FINISHED,3,Cádiz CF,Cádiz CF,CAD,Sevilla FC,Sevilla FC,SEV,1,3,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-27T19:00:00Z,FINISHED,3,FC Barcelona,Barça,FCB,Villarreal CF,Villarreal,VIL,4,0,4,0
+Primera Division,2020-09-12,2021-05-23,2020-09-29T17:00:00Z,FINISHED,4,Real Sociedad de Fútbol,Real Sociedad,RSO,Valencia CF,Valencia,VAL,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-29T19:30:00Z,FINISHED,4,Getafe CF,Getafe,GET,Real Betis Balompié,Real Betis,BET,3,0,3,0
+Primera Division,2020-09-12,2021-05-23,2020-09-30T17:00:00Z,FINISHED,4,Villarreal CF,Villarreal,VIL,Deportivo Alavés,Alavés,ALA,3,1,2,1
+Primera Division,2020-09-12,2021-05-23,2020-09-30T17:00:00Z,FINISHED,4,SD Huesca,Huesca,HUE,Club Atlético de Madrid,Atleti,ATL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-30T19:30:00Z,FINISHED,4,Real Madrid CF,Real Madrid,RMA,Real Valladolid CF,Valladolid,VDD,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-09-30T19:30:00Z,FINISHED,4,SD Eibar,Eibar,EIB,Elche CF,Elche,ELC,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-01T17:00:00Z,FINISHED,4,Sevilla FC,Sevilla FC,SEV,Levante UD,Levante,LEV,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-01T17:00:00Z,FINISHED,4,Athletic Club,Athletic,ATH,Cádiz CF,Cádiz CF,CAD,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-01T19:30:00Z,FINISHED,4,RC Celta de Vigo,Celta,CEL,FC Barcelona,Barça,FCB,0,3,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-03T11:00:00Z,FINISHED,5,Real Valladolid CF,Valladolid,VDD,SD Eibar,Eibar,EIB,1,2,1,1
+Primera Division,2020-09-12,2021-05-23,2020-10-03T14:00:00Z,FINISHED,5,Club Atlético de Madrid,Atleti,ATL,Villarreal CF,Villarreal,VIL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-03T16:30:00Z,FINISHED,5,Real Sociedad de Fútbol,Real Sociedad,RSO,Getafe CF,Getafe,GET,3,0,1,0
+Primera Division,2020-09-12,2021-05-23,2020-10-03T16:30:00Z,FINISHED,5,Elche CF,Elche,ELC,SD Huesca,Huesca,HUE,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-03T19:00:00Z,FINISHED,5,Valencia CF,Valencia,VAL,Real Betis Balompié,Real Betis,BET,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-04T10:00:00Z,FINISHED,5,CA Osasuna,Osasuna,OSA,RC Celta de Vigo,Celta,CEL,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2020-10-04T12:00:00Z,FINISHED,5,Deportivo Alavés,Alavés,ALA,Athletic Club,Athletic,ATH,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-04T14:00:00Z,FINISHED,5,Levante UD,Levante,LEV,Real Madrid CF,Real Madrid,RMA,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-04T16:30:00Z,FINISHED,5,Cádiz CF,Cádiz CF,CAD,Granada CF,Granada,GRA,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-04T19:00:00Z,FINISHED,5,FC Barcelona,Barça,FCB,Sevilla FC,Sevilla FC,SEV,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-10-17T11:00:00Z,FINISHED,6,Granada CF,Granada,GRA,Sevilla FC,Sevilla FC,SEV,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-17T14:00:00Z,FINISHED,6,RC Celta de Vigo,Celta,CEL,Club Atlético de Madrid,Atleti,ATL,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-17T16:30:00Z,FINISHED,6,Real Madrid CF,Real Madrid,RMA,Cádiz CF,Cádiz CF,CAD,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-17T19:00:00Z,FINISHED,6,Getafe CF,Getafe,GET,FC Barcelona,Barça,FCB,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-18T10:00:00Z,FINISHED,6,SD Eibar,Eibar,EIB,CA Osasuna,Osasuna,OSA,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-18T12:00:00Z,FINISHED,6,Athletic Club,Athletic,ATH,Levante UD,Levante,LEV,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-18T14:00:00Z,FINISHED,6,Villarreal CF,Villarreal,VIL,Valencia CF,Valencia,VAL,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-10-18T16:30:00Z,FINISHED,6,SD Huesca,Huesca,HUE,Real Valladolid CF,Valladolid,VDD,2,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-18T16:30:00Z,FINISHED,6,Deportivo Alavés,Alavés,ALA,Elche CF,Elche,ELC,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-18T19:00:00Z,FINISHED,6,Real Betis Balompié,Real Betis,BET,Real Sociedad de Fútbol,Real Sociedad,RSO,0,3,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-23T19:00:00Z,FINISHED,7,Elche CF,Elche,ELC,Valencia CF,Valencia,VAL,2,1,2,0
+Primera Division,2020-09-12,2021-05-23,2020-10-24T14:00:00Z,FINISHED,7,FC Barcelona,Barça,FCB,Real Madrid CF,Real Madrid,RMA,1,3,1,1
+Primera Division,2020-09-12,2021-05-23,2020-10-24T16:30:00Z,FINISHED,7,CA Osasuna,Osasuna,OSA,Athletic Club,Athletic,ATH,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-24T16:30:00Z,FINISHED,7,Sevilla FC,Sevilla FC,SEV,SD Eibar,Eibar,EIB,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-24T19:00:00Z,FINISHED,7,Club Atlético de Madrid,Atleti,ATL,Real Betis Balompié,Real Betis,BET,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-25T13:00:00Z,FINISHED,7,Real Valladolid CF,Valladolid,VDD,Deportivo Alavés,Alavés,ALA,0,2,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-25T15:00:00Z,FINISHED,7,Cádiz CF,Cádiz CF,CAD,Villarreal CF,Villarreal,VIL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-25T17:30:00Z,FINISHED,7,Getafe CF,Getafe,GET,Granada CF,Granada,GRA,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-25T20:00:00Z,FINISHED,7,Real Sociedad de Fútbol,Real Sociedad,RSO,SD Huesca,Huesca,HUE,4,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-10-26T20:00:00Z,FINISHED,7,Levante UD,Levante,LEV,RC Celta de Vigo,Celta,CEL,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-10-30T20:00:00Z,FINISHED,8,SD Eibar,Eibar,EIB,Cádiz CF,Cádiz CF,CAD,0,2,0,2
+Primera Division,2020-09-12,2021-05-23,2020-10-31T13:00:00Z,FINISHED,8,Real Madrid CF,Real Madrid,RMA,SD Huesca,Huesca,HUE,4,1,2,0
+Primera Division,2020-09-12,2021-05-23,2020-10-31T15:15:00Z,FINISHED,8,Athletic Club,Athletic,ATH,Sevilla FC,Sevilla FC,SEV,2,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-31T17:30:00Z,FINISHED,8,CA Osasuna,Osasuna,OSA,Club Atlético de Madrid,Atleti,ATL,1,3,0,1
+Primera Division,2020-09-12,2021-05-23,2020-10-31T20:00:00Z,FINISHED,8,Deportivo Alavés,Alavés,ALA,FC Barcelona,Barça,FCB,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-11-01T13:00:00Z,FINISHED,8,Real Betis Balompié,Real Betis,BET,Elche CF,Elche,ELC,3,1,2,0
+Primera Division,2020-09-12,2021-05-23,2020-11-01T15:00:00Z,FINISHED,8,RC Celta de Vigo,Celta,CEL,Real Sociedad de Fútbol,Real Sociedad,RSO,1,4,0,2
+Primera Division,2020-09-12,2021-05-23,2020-11-01T17:30:00Z,FINISHED,8,Granada CF,Granada,GRA,Levante UD,Levante,LEV,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-11-01T20:00:00Z,FINISHED,8,Valencia CF,Valencia,VAL,Getafe CF,Getafe,GET,2,2,1,0
+Primera Division,2020-09-12,2021-05-23,2020-11-02T20:00:00Z,FINISHED,8,Villarreal CF,Villarreal,VIL,Real Valladolid CF,Valladolid,VDD,2,0,2,0
+Primera Division,2020-09-12,2021-05-23,2020-11-06T20:00:00Z,FINISHED,9,Elche CF,Elche,ELC,RC Celta de Vigo,Celta,CEL,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-11-07T13:00:00Z,FINISHED,9,SD Huesca,Huesca,HUE,SD Eibar,Eibar,EIB,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-11-07T15:15:00Z,FINISHED,9,FC Barcelona,Barça,FCB,Real Betis Balompié,Real Betis,BET,5,2,1,1
+Primera Division,2020-09-12,2021-05-23,2020-11-07T17:30:00Z,FINISHED,9,Sevilla FC,Sevilla FC,SEV,CA Osasuna,Osasuna,OSA,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-11-07T20:00:00Z,FINISHED,9,Club Atlético de Madrid,Atleti,ATL,Cádiz CF,Cádiz CF,CAD,4,0,2,0
+Primera Division,2020-09-12,2021-05-23,2020-11-08T13:00:00Z,FINISHED,9,Getafe CF,Getafe,GET,Villarreal CF,Villarreal,VIL,1,3,1,2
+Primera Division,2020-09-12,2021-05-23,2020-11-08T15:15:00Z,FINISHED,9,Real Sociedad de Fútbol,Real Sociedad,RSO,Granada CF,Granada,GRA,2,0,2,0
+Primera Division,2020-09-12,2021-05-23,2020-11-08T17:30:00Z,FINISHED,9,Levante UD,Levante,LEV,Deportivo Alavés,Alavés,ALA,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-11-08T17:30:00Z,FINISHED,9,Real Valladolid CF,Valladolid,VDD,Athletic Club,Athletic,ATH,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-11-08T20:00:00Z,FINISHED,9,Valencia CF,Valencia,VAL,Real Madrid CF,Real Madrid,RMA,4,1,2,1
+Primera Division,2020-09-12,2021-05-23,2020-11-20T20:00:00Z,FINISHED,10,CA Osasuna,Osasuna,OSA,SD Huesca,Huesca,HUE,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-11-21T13:00:00Z,FINISHED,10,Levante UD,Levante,LEV,Elche CF,Elche,ELC,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-11-21T15:15:00Z,FINISHED,10,Villarreal CF,Villarreal,VIL,Real Madrid CF,Real Madrid,RMA,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-11-21T17:30:00Z,FINISHED,10,Sevilla FC,Sevilla FC,SEV,RC Celta de Vigo,Celta,CEL,4,2,2,2
+Primera Division,2020-09-12,2021-05-23,2020-11-21T20:00:00Z,FINISHED,10,Club Atlético de Madrid,Atleti,ATL,FC Barcelona,Barça,FCB,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2020-11-22T13:00:00Z,FINISHED,10,SD Eibar,Eibar,EIB,Getafe CF,Getafe,GET,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-11-22T15:15:00Z,FINISHED,10,Cádiz CF,Cádiz CF,CAD,Real Sociedad de Fútbol,Real Sociedad,RSO,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-11-22T17:30:00Z,FINISHED,10,Granada CF,Granada,GRA,Real Valladolid CF,Valladolid,VDD,1,3,0,1
+Primera Division,2020-09-12,2021-05-23,2020-11-22T20:00:00Z,FINISHED,10,Deportivo Alavés,Alavés,ALA,Valencia CF,Valencia,VAL,2,2,2,0
+Primera Division,2020-09-12,2021-05-23,2020-11-23T20:00:00Z,FINISHED,10,Athletic Club,Athletic,ATH,Real Betis Balompié,Real Betis,BET,4,0,2,0
+Primera Division,2020-09-12,2021-05-23,2020-11-27T20:00:00Z,FINISHED,11,Real Valladolid CF,Valladolid,VDD,Levante UD,Levante,LEV,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-11-28T13:00:00Z,FINISHED,11,Elche CF,Elche,ELC,Cádiz CF,Cádiz CF,CAD,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-11-28T15:15:00Z,FINISHED,11,Valencia CF,Valencia,VAL,Club Atlético de Madrid,Atleti,ATL,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-11-28T17:30:00Z,FINISHED,11,SD Huesca,Huesca,HUE,Sevilla FC,Sevilla FC,SEV,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-11-28T20:00:00Z,FINISHED,11,Real Madrid CF,Real Madrid,RMA,Deportivo Alavés,Alavés,ALA,1,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-11-29T13:00:00Z,FINISHED,11,FC Barcelona,Barça,FCB,CA Osasuna,Osasuna,OSA,4,0,2,0
+Primera Division,2020-09-12,2021-05-23,2020-11-29T15:15:00Z,FINISHED,11,Getafe CF,Getafe,GET,Athletic Club,Athletic,ATH,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-11-29T17:30:00Z,FINISHED,11,RC Celta de Vigo,Celta,CEL,Granada CF,Granada,GRA,3,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-11-29T20:00:00Z,FINISHED,11,Real Sociedad de Fútbol,Real Sociedad,RSO,Villarreal CF,Villarreal,VIL,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-11-30T20:00:00Z,FINISHED,11,Real Betis Balompié,Real Betis,BET,SD Eibar,Eibar,EIB,0,2,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-04T20:00:00Z,FINISHED,12,Athletic Club,Athletic,ATH,RC Celta de Vigo,Celta,CEL,0,2,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-05T13:00:00Z,FINISHED,12,Levante UD,Levante,LEV,Getafe CF,Getafe,GET,3,0,2,0
+Primera Division,2020-09-12,2021-05-23,2020-12-05T15:15:00Z,FINISHED,12,Sevilla FC,Sevilla FC,SEV,Real Madrid CF,Real Madrid,RMA,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-05T17:30:00Z,FINISHED,12,Club Atlético de Madrid,Atleti,ATL,Real Valladolid CF,Valladolid,VDD,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-05T20:00:00Z,FINISHED,12,Cádiz CF,Cádiz CF,CAD,FC Barcelona,Barça,FCB,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-06T13:00:00Z,FINISHED,12,Granada CF,Granada,GRA,SD Huesca,Huesca,HUE,3,3,1,1
+Primera Division,2020-09-12,2021-05-23,2020-12-06T15:15:00Z,FINISHED,12,CA Osasuna,Osasuna,OSA,Real Betis Balompié,Real Betis,BET,0,2,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-06T17:30:00Z,FINISHED,12,Villarreal CF,Villarreal,VIL,Elche CF,Elche,ELC,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-06T20:00:00Z,FINISHED,12,Deportivo Alavés,Alavés,ALA,Real Sociedad de Fútbol,Real Sociedad,RSO,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-07T20:00:00Z,FINISHED,12,SD Eibar,Eibar,EIB,Valencia CF,Valencia,VAL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-11T20:00:00Z,FINISHED,13,Real Valladolid CF,Valladolid,VDD,CA Osasuna,Osasuna,OSA,3,2,1,2
+Primera Division,2020-09-12,2021-05-23,2020-12-12T13:00:00Z,FINISHED,13,Valencia CF,Valencia,VAL,Athletic Club,Athletic,ATH,2,2,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-12T15:15:00Z,FINISHED,13,Getafe CF,Getafe,GET,Sevilla FC,Sevilla FC,SEV,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-12T17:30:00Z,FINISHED,13,SD Huesca,Huesca,HUE,Deportivo Alavés,Alavés,ALA,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-12T20:00:00Z,FINISHED,13,Real Madrid CF,Real Madrid,RMA,Club Atlético de Madrid,Atleti,ATL,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-13T13:00:00Z,FINISHED,13,Real Sociedad de Fútbol,Real Sociedad,RSO,SD Eibar,Eibar,EIB,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-13T15:15:00Z,FINISHED,13,Real Betis Balompié,Real Betis,BET,Villarreal CF,Villarreal,VIL,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-12-13T17:30:00Z,FINISHED,13,Elche CF,Elche,ELC,Granada CF,Granada,GRA,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-12-13T20:00:00Z,FINISHED,13,FC Barcelona,Barça,FCB,Levante UD,Levante,LEV,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-14T20:00:00Z,FINISHED,13,RC Celta de Vigo,Celta,CEL,Cádiz CF,Cádiz CF,CAD,4,0,4,0
+Primera Division,2020-09-12,2021-05-23,2020-12-15T21:00:00Z,FINISHED,19,Real Madrid CF,Real Madrid,RMA,Athletic Club,Athletic,ATH,3,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-16T20:00:00Z,FINISHED,19,FC Barcelona,Barça,FCB,Real Sociedad de Fútbol,Real Sociedad,RSO,2,1,2,1
+Primera Division,2020-09-12,2021-05-23,2020-12-18T20:00:00Z,FINISHED,14,Athletic Club,Athletic,ATH,SD Huesca,Huesca,HUE,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-19T13:00:00Z,FINISHED,14,Club Atlético de Madrid,Atleti,ATL,Elche CF,Elche,ELC,3,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-19T15:15:00Z,FINISHED,14,FC Barcelona,Barça,FCB,Valencia CF,Valencia,VAL,2,2,1,1
+Primera Division,2020-09-12,2021-05-23,2020-12-19T17:30:00Z,FINISHED,14,Levante UD,Levante,LEV,Real Sociedad de Fútbol,Real Sociedad,RSO,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-12-19T17:30:00Z,FINISHED,14,CA Osasuna,Osasuna,OSA,Villarreal CF,Villarreal,VIL,1,3,0,2
+Primera Division,2020-09-12,2021-05-23,2020-12-19T20:00:00Z,FINISHED,14,Sevilla FC,Sevilla FC,SEV,Real Valladolid CF,Valladolid,VDD,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-20T13:00:00Z,FINISHED,14,RC Celta de Vigo,Celta,CEL,Deportivo Alavés,Alavés,ALA,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-20T15:15:00Z,FINISHED,14,Granada CF,Granada,GRA,Real Betis Balompié,Real Betis,BET,2,0,2,0
+Primera Division,2020-09-12,2021-05-23,2020-12-20T17:30:00Z,FINISHED,14,Cádiz CF,Cádiz CF,CAD,Getafe CF,Getafe,GET,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-12-20T20:00:00Z,FINISHED,14,SD Eibar,Eibar,EIB,Real Madrid CF,Real Madrid,RMA,1,3,1,2
+Primera Division,2020-09-12,2021-05-23,2020-12-22T16:30:00Z,FINISHED,15,Valencia CF,Valencia,VAL,Sevilla FC,Sevilla FC,SEV,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-22T16:30:00Z,FINISHED,15,Elche CF,Elche,ELC,CA Osasuna,Osasuna,OSA,2,2,0,1
+Primera Division,2020-09-12,2021-05-23,2020-12-22T18:45:00Z,FINISHED,15,Real Sociedad de Fútbol,Real Sociedad,RSO,Club Atlético de Madrid,Atleti,ATL,0,2,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-22T18:45:00Z,FINISHED,15,SD Huesca,Huesca,HUE,Levante UD,Levante,LEV,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-22T21:00:00Z,FINISHED,15,Real Valladolid CF,Valladolid,VDD,FC Barcelona,Barça,FCB,0,3,0,2
+Primera Division,2020-09-12,2021-05-23,2020-12-22T21:00:00Z,FINISHED,15,Villarreal CF,Villarreal,VIL,Athletic Club,Athletic,ATH,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-12-23T16:30:00Z,FINISHED,15,Getafe CF,Getafe,GET,RC Celta de Vigo,Celta,CEL,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-12-23T18:45:00Z,FINISHED,15,Real Madrid CF,Real Madrid,RMA,Granada CF,Granada,GRA,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-23T21:00:00Z,FINISHED,15,Real Betis Balompié,Real Betis,BET,Cádiz CF,Cádiz CF,CAD,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-23T21:00:00Z,FINISHED,15,Deportivo Alavés,Alavés,ALA,SD Eibar,Eibar,EIB,2,1,2,1
+Primera Division,2020-09-12,2021-05-23,2020-12-29T16:00:00Z,FINISHED,16,Sevilla FC,Sevilla FC,SEV,Villarreal CF,Villarreal,VIL,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-29T18:15:00Z,FINISHED,16,FC Barcelona,Barça,FCB,SD Eibar,Eibar,EIB,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-29T20:30:00Z,FINISHED,16,Cádiz CF,Cádiz CF,CAD,Real Valladolid CF,Valladolid,VDD,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2020-12-29T20:30:00Z,FINISHED,16,Levante UD,Levante,LEV,Real Betis Balompié,Real Betis,BET,4,3,3,1
+Primera Division,2020-09-12,2021-05-23,2020-12-30T16:00:00Z,FINISHED,16,Granada CF,Granada,GRA,Valencia CF,Valencia,VAL,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2020-12-30T18:15:00Z,FINISHED,16,RC Celta de Vigo,Celta,CEL,SD Huesca,Huesca,HUE,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-30T18:15:00Z,FINISHED,16,Club Atlético de Madrid,Atleti,ATL,Getafe CF,Getafe,GET,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2020-12-30T20:30:00Z,FINISHED,16,Elche CF,Elche,ELC,Real Madrid CF,Real Madrid,RMA,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-12-31T13:00:00Z,FINISHED,16,Athletic Club,Athletic,ATH,Real Sociedad de Fútbol,Real Sociedad,RSO,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2020-12-31T15:15:00Z,FINISHED,16,CA Osasuna,Osasuna,OSA,Deportivo Alavés,Alavés,ALA,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-02T13:00:00Z,FINISHED,17,Villarreal CF,Villarreal,VIL,Levante UD,Levante,LEV,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-01-02T15:15:00Z,FINISHED,17,Real Betis Balompié,Real Betis,BET,Sevilla FC,Sevilla FC,SEV,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-02T17:30:00Z,FINISHED,17,Getafe CF,Getafe,GET,Real Valladolid CF,Valladolid,VDD,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-01-02T20:00:00Z,FINISHED,17,Real Madrid CF,Real Madrid,RMA,RC Celta de Vigo,Celta,CEL,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-01-03T13:00:00Z,FINISHED,17,Athletic Club,Athletic,ATH,Elche CF,Elche,ELC,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-01-03T15:15:00Z,FINISHED,17,Deportivo Alavés,Alavés,ALA,Club Atlético de Madrid,Atleti,ATL,1,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-01-03T17:30:00Z,FINISHED,17,Real Sociedad de Fútbol,Real Sociedad,RSO,CA Osasuna,Osasuna,OSA,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-01-03T17:30:00Z,FINISHED,17,SD Eibar,Eibar,EIB,Granada CF,Granada,GRA,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-03T20:00:00Z,FINISHED,17,SD Huesca,Huesca,HUE,FC Barcelona,Barça,FCB,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-01-04T20:00:00Z,FINISHED,17,Valencia CF,Valencia,VAL,Cádiz CF,Cádiz CF,CAD,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-06T20:00:00Z,FINISHED,2,Athletic Club,Athletic,ATH,FC Barcelona,Barça,FCB,2,3,1,2
+Primera Division,2020-09-12,2021-05-23,2021-01-08T20:00:00Z,FINISHED,18,RC Celta de Vigo,Celta,CEL,Villarreal CF,Villarreal,VIL,0,4,0,4
+Primera Division,2020-09-12,2021-05-23,2021-01-09T13:00:00Z,FINISHED,18,Sevilla FC,Sevilla FC,SEV,Real Sociedad de Fútbol,Real Sociedad,RSO,3,2,2,2
+Primera Division,2020-09-12,2021-05-23,2021-01-09T17:30:00Z,FINISHED,18,Granada CF,Granada,GRA,FC Barcelona,Barça,FCB,0,4,0,3
+Primera Division,2020-09-12,2021-05-23,2021-01-09T20:00:00Z,FINISHED,18,CA Osasuna,Osasuna,OSA,Real Madrid CF,Real Madrid,RMA,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-10T13:00:00Z,FINISHED,18,Levante UD,Levante,LEV,SD Eibar,Eibar,EIB,2,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-10T15:15:00Z,FINISHED,18,Cádiz CF,Cádiz CF,CAD,Deportivo Alavés,Alavés,ALA,3,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-01-10T20:00:00Z,FINISHED,18,Real Valladolid CF,Valladolid,VDD,Valencia CF,Valencia,VAL,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-11T18:00:00Z,FINISHED,18,Elche CF,Elche,ELC,Getafe CF,Getafe,GET,1,3,1,1
+Primera Division,2020-09-12,2021-05-23,2021-01-11T20:00:00Z,FINISHED,18,SD Huesca,Huesca,HUE,Real Betis Balompié,Real Betis,BET,0,2,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-12T18:00:00Z,FINISHED,4,Granada CF,Granada,GRA,CA Osasuna,Osasuna,OSA,2,0,2,0
+Primera Division,2020-09-12,2021-05-23,2021-01-12T20:30:00Z,FINISHED,1,Club Atlético de Madrid,Atleti,ATL,Sevilla FC,Sevilla FC,SEV,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-01-19T18:00:00Z,FINISHED,19,Real Valladolid CF,Valladolid,VDD,Elche CF,Elche,ELC,2,2,0,2
+Primera Division,2020-09-12,2021-05-23,2021-01-19T18:00:00Z,FINISHED,19,Cádiz CF,Cádiz CF,CAD,Levante UD,Levante,LEV,2,2,2,2
+Primera Division,2020-09-12,2021-05-23,2021-01-19T20:30:00Z,FINISHED,19,Deportivo Alavés,Alavés,ALA,Sevilla FC,Sevilla FC,SEV,1,2,1,2
+Primera Division,2020-09-12,2021-05-23,2021-01-20T18:00:00Z,FINISHED,19,Getafe CF,Getafe,GET,SD Huesca,Huesca,HUE,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-20T20:00:00Z,FINISHED,19,Real Betis Balompié,Real Betis,BET,RC Celta de Vigo,Celta,CEL,2,1,2,1
+Primera Division,2020-09-12,2021-05-23,2021-01-20T20:30:00Z,FINISHED,19,Villarreal CF,Villarreal,VIL,Granada CF,Granada,GRA,2,2,1,1
+Primera Division,2020-09-12,2021-05-23,2021-01-21T18:00:00Z,FINISHED,19,Valencia CF,Valencia,VAL,CA Osasuna,Osasuna,OSA,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-01-21T20:30:00Z,FINISHED,19,SD Eibar,Eibar,EIB,Club Atlético de Madrid,Atleti,ATL,1,2,1,1
+Primera Division,2020-09-12,2021-05-23,2021-01-22T20:00:00Z,FINISHED,20,Levante UD,Levante,LEV,Real Valladolid CF,Valladolid,VDD,2,2,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-23T13:00:00Z,FINISHED,20,SD Huesca,Huesca,HUE,Villarreal CF,Villarreal,VIL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-23T15:15:00Z,FINISHED,20,Sevilla FC,Sevilla FC,SEV,Cádiz CF,Cádiz CF,CAD,3,0,2,0
+Primera Division,2020-09-12,2021-05-23,2021-01-23T17:30:00Z,FINISHED,20,Real Sociedad de Fútbol,Real Sociedad,RSO,Real Betis Balompié,Real Betis,BET,2,2,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-23T20:00:00Z,FINISHED,20,Deportivo Alavés,Alavés,ALA,Real Madrid CF,Real Madrid,RMA,1,4,0,3
+Primera Division,2020-09-12,2021-05-23,2021-01-24T13:00:00Z,FINISHED,20,CA Osasuna,Osasuna,OSA,Granada CF,Granada,GRA,3,1,2,0
+Primera Division,2020-09-12,2021-05-23,2021-01-24T15:15:00Z,FINISHED,20,Elche CF,Elche,ELC,FC Barcelona,Barça,FCB,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-01-24T17:30:00Z,FINISHED,20,RC Celta de Vigo,Celta,CEL,SD Eibar,Eibar,EIB,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-01-24T20:00:00Z,FINISHED,20,Club Atlético de Madrid,Atleti,ATL,Valencia CF,Valencia,VAL,3,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-01-25T20:00:00Z,FINISHED,20,Athletic Club,Athletic,ATH,Getafe CF,Getafe,GET,5,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-01-29T20:00:00Z,FINISHED,21,Real Valladolid CF,Valladolid,VDD,SD Huesca,Huesca,HUE,1,3,0,1
+Primera Division,2020-09-12,2021-05-23,2021-01-30T13:00:00Z,FINISHED,21,SD Eibar,Eibar,EIB,Sevilla FC,Sevilla FC,SEV,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-01-30T15:15:00Z,FINISHED,21,Real Madrid CF,Real Madrid,RMA,Levante UD,Levante,LEV,1,2,1,1
+Primera Division,2020-09-12,2021-05-23,2021-01-30T17:30:00Z,FINISHED,21,Valencia CF,Valencia,VAL,Elche CF,Elche,ELC,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-01-30T20:00:00Z,FINISHED,21,Villarreal CF,Villarreal,VIL,Real Sociedad de Fútbol,Real Sociedad,RSO,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-01-31T13:00:00Z,FINISHED,21,Getafe CF,Getafe,GET,Deportivo Alavés,Alavés,ALA,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-31T15:15:00Z,FINISHED,21,Cádiz CF,Cádiz CF,CAD,Club Atlético de Madrid,Atleti,ATL,2,4,1,2
+Primera Division,2020-09-12,2021-05-23,2021-01-31T17:30:00Z,FINISHED,21,Granada CF,Granada,GRA,RC Celta de Vigo,Celta,CEL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-01-31T20:00:00Z,FINISHED,21,FC Barcelona,Barça,FCB,Athletic Club,Athletic,ATH,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-02-01T20:00:00Z,FINISHED,21,Real Betis Balompié,Real Betis,BET,CA Osasuna,Osasuna,OSA,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-05T20:00:00Z,FINISHED,22,Deportivo Alavés,Alavés,ALA,Real Valladolid CF,Valladolid,VDD,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-06T13:00:00Z,FINISHED,22,Levante UD,Levante,LEV,Granada CF,Granada,GRA,2,2,1,1
+Primera Division,2020-09-12,2021-05-23,2021-02-06T15:15:00Z,FINISHED,22,SD Huesca,Huesca,HUE,Real Madrid CF,Real Madrid,RMA,1,2,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-06T17:30:00Z,FINISHED,22,Elche CF,Elche,ELC,Villarreal CF,Villarreal,VIL,2,2,0,2
+Primera Division,2020-09-12,2021-05-23,2021-02-06T20:00:00Z,FINISHED,22,Sevilla FC,Sevilla FC,SEV,Getafe CF,Getafe,GET,3,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-07T13:00:00Z,FINISHED,22,Real Sociedad de Fútbol,Real Sociedad,RSO,Cádiz CF,Cádiz CF,CAD,4,1,2,0
+Primera Division,2020-09-12,2021-05-23,2021-02-07T15:15:00Z,FINISHED,22,Athletic Club,Athletic,ATH,Valencia CF,Valencia,VAL,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-02-07T17:30:00Z,FINISHED,22,CA Osasuna,Osasuna,OSA,SD Eibar,Eibar,EIB,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-02-07T20:00:00Z,FINISHED,22,Real Betis Balompié,Real Betis,BET,FC Barcelona,Barça,FCB,2,3,1,0
+Primera Division,2020-09-12,2021-05-23,2021-02-08T20:00:00Z,FINISHED,22,Club Atlético de Madrid,Atleti,ATL,RC Celta de Vigo,Celta,CEL,2,2,1,1
+Primera Division,2020-09-12,2021-05-23,2021-02-09T20:00:00Z,FINISHED,1,Real Madrid CF,Real Madrid,RMA,Getafe CF,Getafe,GET,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-12T20:00:00Z,FINISHED,23,RC Celta de Vigo,Celta,CEL,Elche CF,Elche,ELC,3,1,2,0
+Primera Division,2020-09-12,2021-05-23,2021-02-13T13:00:00Z,FINISHED,23,Granada CF,Granada,GRA,Club Atlético de Madrid,Atleti,ATL,1,2,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-13T15:15:00Z,FINISHED,23,Sevilla FC,Sevilla FC,SEV,SD Huesca,Huesca,HUE,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-13T17:30:00Z,FINISHED,23,SD Eibar,Eibar,EIB,Real Valladolid CF,Valladolid,VDD,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-02-13T20:00:00Z,FINISHED,23,FC Barcelona,Barça,FCB,Deportivo Alavés,Alavés,ALA,5,1,2,0
+Primera Division,2020-09-12,2021-05-23,2021-02-14T13:00:00Z,FINISHED,23,Getafe CF,Getafe,GET,Real Sociedad de Fútbol,Real Sociedad,RSO,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-02-14T15:15:00Z,FINISHED,23,Real Madrid CF,Real Madrid,RMA,Valencia CF,Valencia,VAL,2,0,2,0
+Primera Division,2020-09-12,2021-05-23,2021-02-14T17:30:00Z,FINISHED,23,Levante UD,Levante,LEV,CA Osasuna,Osasuna,OSA,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-14T20:00:00Z,FINISHED,23,Villarreal CF,Villarreal,VIL,Real Betis Balompié,Real Betis,BET,1,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-02-15T20:00:00Z,FINISHED,23,Cádiz CF,Cádiz CF,CAD,Athletic Club,Athletic,ATH,0,4,0,3
+Primera Division,2020-09-12,2021-05-23,2021-02-17T18:00:00Z,FINISHED,2,Levante UD,Levante,LEV,Club Atlético de Madrid,Atleti,ATL,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-02-19T20:00:00Z,FINISHED,24,Real Betis Balompié,Real Betis,BET,Getafe CF,Getafe,GET,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-20T13:00:00Z,FINISHED,24,Elche CF,Elche,ELC,SD Eibar,Eibar,EIB,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-02-20T15:15:00Z,FINISHED,24,Club Atlético de Madrid,Atleti,ATL,Levante UD,Levante,LEV,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-02-20T17:30:00Z,FINISHED,24,Valencia CF,Valencia,VAL,RC Celta de Vigo,Celta,CEL,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-20T20:00:00Z,FINISHED,24,Real Valladolid CF,Valladolid,VDD,Real Madrid CF,Real Madrid,RMA,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-21T13:00:00Z,FINISHED,24,FC Barcelona,Barça,FCB,Cádiz CF,Cádiz CF,CAD,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-02-21T15:15:00Z,FINISHED,24,Real Sociedad de Fútbol,Real Sociedad,RSO,Deportivo Alavés,Alavés,ALA,4,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-02-21T17:30:00Z,FINISHED,24,SD Huesca,Huesca,HUE,Granada CF,Granada,GRA,3,2,3,1
+Primera Division,2020-09-12,2021-05-23,2021-02-21T20:00:00Z,FINISHED,24,Athletic Club,Athletic,ATH,Villarreal CF,Villarreal,VIL,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-02-22T20:00:00Z,FINISHED,24,CA Osasuna,Osasuna,OSA,Sevilla FC,Sevilla FC,SEV,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-02-24T18:00:00Z,FINISHED,1,FC Barcelona,Barça,FCB,Elche CF,Elche,ELC,3,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-26T20:00:00Z,FINISHED,25,Levante UD,Levante,LEV,Athletic Club,Athletic,ATH,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-02-27T13:00:00Z,FINISHED,25,SD Eibar,Eibar,EIB,SD Huesca,Huesca,HUE,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-27T15:15:00Z,FINISHED,25,Sevilla FC,Sevilla FC,SEV,FC Barcelona,Barça,FCB,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-02-27T17:30:00Z,FINISHED,25,Deportivo Alavés,Alavés,ALA,CA Osasuna,Osasuna,OSA,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-27T20:00:00Z,FINISHED,25,Getafe CF,Getafe,GET,Valencia CF,Valencia,VAL,3,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-02-28T13:00:00Z,FINISHED,25,RC Celta de Vigo,Celta,CEL,Real Valladolid CF,Valladolid,VDD,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-28T15:15:00Z,FINISHED,25,Cádiz CF,Cádiz CF,CAD,Real Betis Balompié,Real Betis,BET,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-02-28T17:30:00Z,FINISHED,25,Granada CF,Granada,GRA,Elche CF,Elche,ELC,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-02-28T20:00:00Z,FINISHED,25,Villarreal CF,Villarreal,VIL,Club Atlético de Madrid,Atleti,ATL,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-03-01T20:00:00Z,FINISHED,25,Real Madrid CF,Real Madrid,RMA,Real Sociedad de Fútbol,Real Sociedad,RSO,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-05T20:00:00Z,FINISHED,26,Valencia CF,Valencia,VAL,Villarreal CF,Villarreal,VIL,2,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-03-06T13:00:00Z,FINISHED,26,Real Valladolid CF,Valladolid,VDD,Getafe CF,Getafe,GET,2,1,2,1
+Primera Division,2020-09-12,2021-05-23,2021-03-06T15:15:00Z,FINISHED,26,Elche CF,Elche,ELC,Sevilla FC,Sevilla FC,SEV,2,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-06T17:30:00Z,FINISHED,26,Cádiz CF,Cádiz CF,CAD,SD Eibar,Eibar,EIB,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-06T20:00:00Z,FINISHED,26,CA Osasuna,Osasuna,OSA,FC Barcelona,Barça,FCB,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-03-07T13:00:00Z,FINISHED,26,SD Huesca,Huesca,HUE,RC Celta de Vigo,Celta,CEL,3,4,2,2
+Primera Division,2020-09-12,2021-05-23,2021-03-07T15:15:00Z,FINISHED,26,Club Atlético de Madrid,Atleti,ATL,Real Madrid CF,Real Madrid,RMA,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-07T17:30:00Z,FINISHED,26,Real Sociedad de Fútbol,Real Sociedad,RSO,Levante UD,Levante,LEV,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-07T20:00:00Z,FINISHED,26,Athletic Club,Athletic,ATH,Granada CF,Granada,GRA,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-08T20:00:00Z,FINISHED,26,Real Betis Balompié,Real Betis,BET,Deportivo Alavés,Alavés,ALA,3,2,0,2
+Primera Division,2020-09-12,2021-05-23,2021-03-10T18:00:00Z,FINISHED,18,Club Atlético de Madrid,Atleti,ATL,Athletic Club,Athletic,ATH,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-03-12T20:00:00Z,FINISHED,27,Levante UD,Levante,LEV,Valencia CF,Valencia,VAL,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-13T13:00:00Z,FINISHED,27,Deportivo Alavés,Alavés,ALA,Cádiz CF,Cádiz CF,CAD,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-13T15:15:00Z,FINISHED,27,Real Madrid CF,Real Madrid,RMA,Elche CF,Elche,ELC,2,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-13T17:30:00Z,FINISHED,27,CA Osasuna,Osasuna,OSA,Real Valladolid CF,Valladolid,VDD,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-13T20:00:00Z,FINISHED,27,Getafe CF,Getafe,GET,Club Atlético de Madrid,Atleti,ATL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-14T13:00:00Z,FINISHED,27,RC Celta de Vigo,Celta,CEL,Athletic Club,Athletic,ATH,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-14T15:15:00Z,FINISHED,27,Granada CF,Granada,GRA,Real Sociedad de Fútbol,Real Sociedad,RSO,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-14T17:30:00Z,FINISHED,27,SD Eibar,Eibar,EIB,Villarreal CF,Villarreal,VIL,1,3,0,2
+Primera Division,2020-09-12,2021-05-23,2021-03-14T20:00:00Z,FINISHED,27,Sevilla FC,Sevilla FC,SEV,Real Betis Balompié,Real Betis,BET,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-15T20:00:00Z,FINISHED,27,FC Barcelona,Barça,FCB,SD Huesca,Huesca,HUE,4,1,2,1
+Primera Division,2020-09-12,2021-05-23,2021-03-17T18:00:00Z,FINISHED,2,Sevilla FC,Sevilla FC,SEV,Elche CF,Elche,ELC,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-19T20:00:00Z,FINISHED,28,Real Betis Balompié,Real Betis,BET,Levante UD,Levante,LEV,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-20T13:00:00Z,FINISHED,28,Athletic Club,Athletic,ATH,SD Eibar,Eibar,EIB,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-03-20T15:15:00Z,FINISHED,28,RC Celta de Vigo,Celta,CEL,Real Madrid CF,Real Madrid,RMA,1,3,1,2
+Primera Division,2020-09-12,2021-05-23,2021-03-20T17:30:00Z,FINISHED,28,SD Huesca,Huesca,HUE,CA Osasuna,Osasuna,OSA,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-20T20:00:00Z,FINISHED,28,Real Valladolid CF,Valladolid,VDD,Sevilla FC,Sevilla FC,SEV,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-21T13:00:00Z,FINISHED,28,Getafe CF,Getafe,GET,Elche CF,Elche,ELC,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-03-21T15:15:00Z,FINISHED,28,Valencia CF,Valencia,VAL,Granada CF,Granada,GRA,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-21T15:15:00Z,FINISHED,28,Villarreal CF,Villarreal,VIL,Cádiz CF,Cádiz CF,CAD,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-03-21T17:30:00Z,FINISHED,28,Club Atlético de Madrid,Atleti,ATL,Deportivo Alavés,Alavés,ALA,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-03-21T20:00:00Z,FINISHED,28,Real Sociedad de Fútbol,Real Sociedad,RSO,FC Barcelona,Barça,FCB,1,6,0,2
+Primera Division,2020-09-12,2021-05-23,2021-04-02T19:00:00Z,FINISHED,29,Levante UD,Levante,LEV,SD Huesca,Huesca,HUE,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-04-03T12:00:00Z,FINISHED,29,Granada CF,Granada,GRA,Villarreal CF,Villarreal,VIL,0,3,0,2
+Primera Division,2020-09-12,2021-05-23,2021-04-03T14:15:00Z,FINISHED,29,Real Madrid CF,Real Madrid,RMA,SD Eibar,Eibar,EIB,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-03T16:30:00Z,FINISHED,29,CA Osasuna,Osasuna,OSA,Getafe CF,Getafe,GET,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-04T12:00:00Z,FINISHED,29,Deportivo Alavés,Alavés,ALA,RC Celta de Vigo,Celta,CEL,1,3,0,3
+Primera Division,2020-09-12,2021-05-23,2021-04-04T14:15:00Z,FINISHED,29,Elche CF,Elche,ELC,Real Betis Balompié,Real Betis,BET,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-04-04T16:30:00Z,FINISHED,29,Cádiz CF,Cádiz CF,CAD,Valencia CF,Valencia,VAL,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-04-04T19:00:00Z,FINISHED,29,Sevilla FC,Sevilla FC,SEV,Club Atlético de Madrid,Atleti,ATL,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-05T19:00:00Z,FINISHED,29,FC Barcelona,Barça,FCB,Real Valladolid CF,Valladolid,VDD,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-07T19:00:00Z,FINISHED,29,Real Sociedad de Fútbol,Real Sociedad,RSO,Athletic Club,Athletic,ATH,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-09T19:00:00Z,FINISHED,30,SD Huesca,Huesca,HUE,Elche CF,Elche,ELC,3,1,2,1
+Primera Division,2020-09-12,2021-05-23,2021-04-10T12:00:00Z,FINISHED,30,Getafe CF,Getafe,GET,Cádiz CF,Cádiz CF,CAD,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-10T14:15:00Z,FINISHED,30,Athletic Club,Athletic,ATH,Deportivo Alavés,Alavés,ALA,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-10T16:30:00Z,FINISHED,30,SD Eibar,Eibar,EIB,Levante UD,Levante,LEV,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-04-10T19:00:00Z,FINISHED,30,Real Madrid CF,Real Madrid,RMA,FC Barcelona,Barça,FCB,2,1,2,0
+Primera Division,2020-09-12,2021-05-23,2021-04-11T12:00:00Z,FINISHED,30,Villarreal CF,Villarreal,VIL,CA Osasuna,Osasuna,OSA,1,2,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-11T14:15:00Z,FINISHED,30,Valencia CF,Valencia,VAL,Real Sociedad de Fútbol,Real Sociedad,RSO,2,2,0,2
+Primera Division,2020-09-12,2021-05-23,2021-04-11T16:30:00Z,FINISHED,30,Real Valladolid CF,Valladolid,VDD,Granada CF,Granada,GRA,1,2,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-11T19:00:00Z,FINISHED,30,Real Betis Balompié,Real Betis,BET,Club Atlético de Madrid,Atleti,ATL,1,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-04-12T19:00:00Z,FINISHED,30,RC Celta de Vigo,Celta,CEL,Sevilla FC,Sevilla FC,SEV,3,4,3,2
+Primera Division,2020-09-12,2021-05-23,2021-04-18T12:00:00Z,FINISHED,33,CA Osasuna,Osasuna,OSA,Elche CF,Elche,ELC,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-18T12:00:00Z,FINISHED,33,Real Sociedad de Fútbol,Real Sociedad,RSO,Sevilla FC,Sevilla FC,SEV,1,2,1,2
+Primera Division,2020-09-12,2021-05-23,2021-04-18T14:15:00Z,FINISHED,33,Club Atlético de Madrid,Atleti,ATL,SD Eibar,Eibar,EIB,5,0,2,0
+Primera Division,2020-09-12,2021-05-23,2021-04-18T14:15:00Z,FINISHED,33,Deportivo Alavés,Alavés,ALA,SD Huesca,Huesca,HUE,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-18T16:30:00Z,FINISHED,33,Real Betis Balompié,Real Betis,BET,Valencia CF,Valencia,VAL,2,2,2,1
+Primera Division,2020-09-12,2021-05-23,2021-04-18T16:30:00Z,FINISHED,33,Cádiz CF,Cádiz CF,CAD,RC Celta de Vigo,Celta,CEL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-18T19:00:00Z,FINISHED,33,Levante UD,Levante,LEV,Villarreal CF,Villarreal,VIL,1,5,1,2
+Primera Division,2020-09-12,2021-05-23,2021-04-18T19:00:00Z,FINISHED,33,Getafe CF,Getafe,GET,Real Madrid CF,Real Madrid,RMA,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-21T17:00:00Z,FINISHED,31,Levante UD,Levante,LEV,Sevilla FC,Sevilla FC,SEV,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-21T17:00:00Z,FINISHED,31,CA Osasuna,Osasuna,OSA,Valencia CF,Valencia,VAL,3,1,2,1
+Primera Division,2020-09-12,2021-05-23,2021-04-21T18:00:00Z,FINISHED,31,Real Betis Balompié,Real Betis,BET,Athletic Club,Athletic,ATH,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-21T19:00:00Z,FINISHED,31,Elche CF,Elche,ELC,Real Valladolid CF,Valladolid,VDD,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-21T19:00:00Z,FINISHED,31,Deportivo Alavés,Alavés,ALA,Villarreal CF,Villarreal,VIL,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-21T20:00:00Z,FINISHED,31,Cádiz CF,Cádiz CF,CAD,Real Madrid CF,Real Madrid,RMA,0,3,0,3
+Primera Division,2020-09-12,2021-05-23,2021-04-22T17:00:00Z,FINISHED,31,Club Atlético de Madrid,Atleti,ATL,SD Huesca,Huesca,HUE,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-22T19:00:00Z,FINISHED,31,Real Sociedad de Fútbol,Real Sociedad,RSO,RC Celta de Vigo,Celta,CEL,2,1,2,1
+Primera Division,2020-09-12,2021-05-23,2021-04-22T19:00:00Z,FINISHED,31,Granada CF,Granada,GRA,SD Eibar,Eibar,EIB,4,1,2,0
+Primera Division,2020-09-12,2021-05-23,2021-04-22T20:00:00Z,FINISHED,31,FC Barcelona,Barça,FCB,Getafe CF,Getafe,GET,5,2,3,1
+Primera Division,2020-09-12,2021-05-23,2021-04-24T12:00:00Z,FINISHED,32,Elche CF,Elche,ELC,Levante UD,Levante,LEV,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-24T14:15:00Z,FINISHED,32,Real Valladolid CF,Valladolid,VDD,Cádiz CF,Cádiz CF,CAD,1,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-24T16:30:00Z,FINISHED,32,Valencia CF,Valencia,VAL,Deportivo Alavés,Alavés,ALA,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-24T19:00:00Z,FINISHED,32,Real Madrid CF,Real Madrid,RMA,Real Betis Balompié,Real Betis,BET,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-04-25T12:00:00Z,FINISHED,32,SD Huesca,Huesca,HUE,Getafe CF,Getafe,GET,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-04-25T14:15:00Z,FINISHED,32,Villarreal CF,Villarreal,VIL,FC Barcelona,Barça,FCB,1,2,1,2
+Primera Division,2020-09-12,2021-05-23,2021-04-25T16:30:00Z,FINISHED,32,Sevilla FC,Sevilla FC,SEV,Granada CF,Granada,GRA,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-25T16:30:00Z,FINISHED,32,RC Celta de Vigo,Celta,CEL,CA Osasuna,Osasuna,OSA,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-25T19:00:00Z,FINISHED,32,Athletic Club,Athletic,ATH,Club Atlético de Madrid,Atleti,ATL,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-26T19:00:00Z,FINISHED,32,SD Eibar,Eibar,EIB,Real Sociedad de Fútbol,Real Sociedad,RSO,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-04-28T17:00:00Z,FINISHED,33,Athletic Club,Athletic,ATH,Real Valladolid CF,Valladolid,VDD,2,2,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-29T17:00:00Z,FINISHED,33,FC Barcelona,Barça,FCB,Granada CF,Granada,GRA,1,2,1,0
+Primera Division,2020-09-12,2021-05-23,2021-04-30T19:00:00Z,FINISHED,34,RC Celta de Vigo,Celta,CEL,Levante UD,Levante,LEV,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-01T12:00:00Z,FINISHED,34,SD Eibar,Eibar,EIB,Deportivo Alavés,Alavés,ALA,3,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-01T14:15:00Z,FINISHED,34,Elche CF,Elche,ELC,Club Atlético de Madrid,Atleti,ATL,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-05-01T16:30:00Z,FINISHED,34,SD Huesca,Huesca,HUE,Real Sociedad de Fútbol,Real Sociedad,RSO,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-01T19:00:00Z,FINISHED,34,Real Madrid CF,Real Madrid,RMA,CA Osasuna,Osasuna,OSA,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-02T12:00:00Z,FINISHED,34,Real Valladolid CF,Valladolid,VDD,Real Betis Balompié,Real Betis,BET,1,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-02T14:15:00Z,FINISHED,34,Villarreal CF,Villarreal,VIL,Getafe CF,Getafe,GET,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-02T16:30:00Z,FINISHED,34,Granada CF,Granada,GRA,Cádiz CF,Cádiz CF,CAD,0,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-05-02T19:00:00Z,FINISHED,34,Valencia CF,Valencia,VAL,FC Barcelona,Barça,FCB,2,3,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-03T19:00:00Z,FINISHED,34,Sevilla FC,Sevilla FC,SEV,Athletic Club,Athletic,ATH,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-07T19:00:00Z,FINISHED,35,Real Sociedad de Fútbol,Real Sociedad,RSO,Elche CF,Elche,ELC,2,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-08T12:00:00Z,FINISHED,35,Deportivo Alavés,Alavés,ALA,Levante UD,Levante,LEV,2,2,1,2
+Primera Division,2020-09-12,2021-05-23,2021-05-08T14:15:00Z,FINISHED,35,FC Barcelona,Barça,FCB,Club Atlético de Madrid,Atleti,ATL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-08T16:30:00Z,FINISHED,35,Cádiz CF,Cádiz CF,CAD,SD Huesca,Huesca,HUE,2,1,2,1
+Primera Division,2020-09-12,2021-05-23,2021-05-08T19:00:00Z,FINISHED,35,Athletic Club,Athletic,ATH,CA Osasuna,Osasuna,OSA,2,2,1,1
+Primera Division,2020-09-12,2021-05-23,2021-05-09T12:00:00Z,FINISHED,35,Getafe CF,Getafe,GET,SD Eibar,Eibar,EIB,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-09T14:15:00Z,FINISHED,35,Valencia CF,Valencia,VAL,Real Valladolid CF,Valladolid,VDD,3,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-09T16:30:00Z,FINISHED,35,Villarreal CF,Villarreal,VIL,RC Celta de Vigo,Celta,CEL,2,4,1,3
+Primera Division,2020-09-12,2021-05-23,2021-05-09T19:00:00Z,FINISHED,35,Real Madrid CF,Real Madrid,RMA,Sevilla FC,Sevilla FC,SEV,2,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-05-10T19:00:00Z,FINISHED,35,Real Betis Balompié,Real Betis,BET,Granada CF,Granada,GRA,2,1,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-11T17:00:00Z,FINISHED,36,CA Osasuna,Osasuna,OSA,Cádiz CF,Cádiz CF,CAD,3,2,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-11T18:00:00Z,FINISHED,36,Elche CF,Elche,ELC,Deportivo Alavés,Alavés,ALA,0,2,0,1
+Primera Division,2020-09-12,2021-05-23,2021-05-11T20:00:00Z,FINISHED,36,Levante UD,Levante,LEV,FC Barcelona,Barça,FCB,3,3,0,2
+Primera Division,2020-09-12,2021-05-23,2021-05-12T17:00:00Z,FINISHED,36,Sevilla FC,Sevilla FC,SEV,Valencia CF,Valencia,VAL,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-12T18:00:00Z,FINISHED,36,RC Celta de Vigo,Celta,CEL,Getafe CF,Getafe,GET,1,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-12T18:00:00Z,FINISHED,36,SD Huesca,Huesca,HUE,Athletic Club,Athletic,ATH,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-12T20:00:00Z,FINISHED,36,Club Atlético de Madrid,Atleti,ATL,Real Sociedad de Fútbol,Real Sociedad,RSO,2,1,2,0
+Primera Division,2020-09-12,2021-05-23,2021-05-13T17:00:00Z,FINISHED,36,Real Valladolid CF,Valladolid,VDD,Villarreal CF,Villarreal,VIL,0,2,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-13T18:00:00Z,FINISHED,36,SD Eibar,Eibar,EIB,Real Betis Balompié,Real Betis,BET,1,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-05-13T20:00:00Z,FINISHED,36,Granada CF,Granada,GRA,Real Madrid CF,Real Madrid,RMA,1,4,0,2
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,FC Barcelona,Barça,FCB,RC Celta de Vigo,Celta,CEL,1,2,1,1
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Valencia CF,Valencia,VAL,SD Eibar,Eibar,EIB,4,1,3,1
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Club Atlético de Madrid,Atleti,ATL,CA Osasuna,Osasuna,OSA,2,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Athletic Club,Athletic,ATH,Real Madrid CF,Real Madrid,RMA,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Getafe CF,Getafe,GET,Levante UD,Levante,LEV,2,1,1,1
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Real Sociedad de Fútbol,Real Sociedad,RSO,Real Valladolid CF,Valladolid,VDD,4,1,4,0
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Real Betis Balompié,Real Betis,BET,SD Huesca,Huesca,HUE,1,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Villarreal CF,Villarreal,VIL,Sevilla FC,Sevilla FC,SEV,4,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Deportivo Alavés,Alavés,ALA,Granada CF,Granada,GRA,4,2,2,1
+Primera Division,2020-09-12,2021-05-23,2021-05-16T16:30:00Z,FINISHED,37,Cádiz CF,Cádiz CF,CAD,Elche CF,Elche,ELC,1,3,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-21T19:00:00Z,FINISHED,38,Levante UD,Levante,LEV,Cádiz CF,Cádiz CF,CAD,2,2,1,2
+Primera Division,2020-09-12,2021-05-23,2021-05-22T16:00:00Z,FINISHED,38,Real Madrid CF,Real Madrid,RMA,Villarreal CF,Villarreal,VIL,2,1,0,1
+Primera Division,2020-09-12,2021-05-23,2021-05-22T16:00:00Z,FINISHED,38,CA Osasuna,Osasuna,OSA,Real Sociedad de Fútbol,Real Sociedad,RSO,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-22T16:00:00Z,FINISHED,38,RC Celta de Vigo,Celta,CEL,Real Betis Balompié,Real Betis,BET,2,3,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-22T16:00:00Z,FINISHED,38,Real Valladolid CF,Valladolid,VDD,Club Atlético de Madrid,Atleti,ATL,1,2,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-22T16:00:00Z,FINISHED,38,Elche CF,Elche,ELC,Athletic Club,Athletic,ATH,2,0,1,0
+Primera Division,2020-09-12,2021-05-23,2021-05-22T16:00:00Z,FINISHED,38,SD Huesca,Huesca,HUE,Valencia CF,Valencia,VAL,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-22T16:00:00Z,FINISHED,38,SD Eibar,Eibar,EIB,FC Barcelona,Barça,FCB,0,1,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-23T16:30:00Z,FINISHED,38,Granada CF,Granada,GRA,Getafe CF,Getafe,GET,0,0,0,0
+Primera Division,2020-09-12,2021-05-23,2021-05-23T19:00:00Z,FINISHED,38,Sevilla FC,Sevilla FC,SEV,Deportivo Alavés,Alavés,ALA,1,0,0,0

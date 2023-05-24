@@ -1,0 +1,381 @@
+league,season_start,season_end,date,status,matchday,home_team,home_team_short,home_team_code,away_team,away_team_short,away_team_code,home_team_score,away_team_score,home_team_halfscore,away_team_halfscore
+Premier League,2021-08-13,2022-05-22,2021-08-13T19:00:00Z,FINISHED,1,Brentford FC,Brentford,BRE,Arsenal FC,Arsenal,ARS,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-14T11:30:00Z,FINISHED,1,Manchester United FC,Man United,MUN,Leeds United FC,Leeds United,LEE,5,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-14T14:00:00Z,FINISHED,1,Watford FC,Watford,WAT,Aston Villa FC,Aston Villa,AVL,3,2,2,0
+Premier League,2021-08-13,2022-05-22,2021-08-14T14:00:00Z,FINISHED,1,Leicester City FC,Leicester City,LEI,Wolverhampton Wanderers FC,Wolverhampton,WOL,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-14T14:00:00Z,FINISHED,1,Everton FC,Everton,EVE,Southampton FC,Southampton,SOU,3,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-08-14T14:00:00Z,FINISHED,1,Chelsea FC,Chelsea,CHE,Crystal Palace FC,Crystal Palace,CRY,3,0,2,0
+Premier League,2021-08-13,2022-05-22,2021-08-14T14:00:00Z,FINISHED,1,Burnley FC,Burnley,BUR,Brighton & Hove Albion FC,Brighton Hove,BHA,1,2,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-14T16:30:00Z,FINISHED,1,Norwich City FC,Norwich,NOR,Liverpool FC,Liverpool,LIV,0,3,0,1
+Premier League,2021-08-13,2022-05-22,2021-08-15T13:00:00Z,FINISHED,1,Newcastle United FC,Newcastle,NEW,West Ham United FC,West Ham,WHU,2,4,2,1
+Premier League,2021-08-13,2022-05-22,2021-08-15T15:30:00Z,FINISHED,1,Tottenham Hotspur FC,Tottenham,TOT,Manchester City FC,Man City,MCI,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-08-21T11:30:00Z,FINISHED,2,Liverpool FC,Liverpool,LIV,Burnley FC,Burnley,BUR,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-21T14:00:00Z,FINISHED,2,Manchester City FC,Man City,MCI,Norwich City FC,Norwich,NOR,5,0,2,0
+Premier League,2021-08-13,2022-05-22,2021-08-21T14:00:00Z,FINISHED,2,Leeds United FC,Leeds United,LEE,Everton FC,Everton,EVE,2,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-08-21T14:00:00Z,FINISHED,2,Crystal Palace FC,Crystal Palace,CRY,Brentford FC,Brentford,BRE,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-08-21T14:00:00Z,FINISHED,2,Aston Villa FC,Aston Villa,AVL,Newcastle United FC,Newcastle,NEW,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-21T16:30:00Z,FINISHED,2,Brighton & Hove Albion FC,Brighton Hove,BHA,Watford FC,Watford,WAT,2,0,2,0
+Premier League,2021-08-13,2022-05-22,2021-08-22T13:00:00Z,FINISHED,2,Wolverhampton Wanderers FC,Wolverhampton,WOL,Tottenham Hotspur FC,Tottenham,TOT,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-08-22T13:00:00Z,FINISHED,2,Southampton FC,Southampton,SOU,Manchester United FC,Man United,MUN,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-22T15:30:00Z,FINISHED,2,Arsenal FC,Arsenal,ARS,Chelsea FC,Chelsea,CHE,0,2,0,2
+Premier League,2021-08-13,2022-05-22,2021-08-23T19:00:00Z,FINISHED,2,West Ham United FC,West Ham,WHU,Leicester City FC,Leicester City,LEI,4,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-28T11:30:00Z,FINISHED,3,Manchester City FC,Man City,MCI,Arsenal FC,Arsenal,ARS,5,0,3,0
+Premier League,2021-08-13,2022-05-22,2021-08-28T14:00:00Z,FINISHED,3,West Ham United FC,West Ham,WHU,Crystal Palace FC,Crystal Palace,CRY,2,2,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-28T14:00:00Z,FINISHED,3,Norwich City FC,Norwich,NOR,Leicester City FC,Leicester City,LEI,1,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-08-28T14:00:00Z,FINISHED,3,Newcastle United FC,Newcastle,NEW,Southampton FC,Southampton,SOU,2,2,0,0
+Premier League,2021-08-13,2022-05-22,2021-08-28T14:00:00Z,FINISHED,3,Brighton & Hove Albion FC,Brighton Hove,BHA,Everton FC,Everton,EVE,0,2,0,1
+Premier League,2021-08-13,2022-05-22,2021-08-28T14:00:00Z,FINISHED,3,Aston Villa FC,Aston Villa,AVL,Brentford FC,Brentford,BRE,1,1,1,1
+Premier League,2021-08-13,2022-05-22,2021-08-28T16:30:00Z,FINISHED,3,Liverpool FC,Liverpool,LIV,Chelsea FC,Chelsea,CHE,1,1,1,1
+Premier League,2021-08-13,2022-05-22,2021-08-29T13:00:00Z,FINISHED,3,Tottenham Hotspur FC,Tottenham,TOT,Watford FC,Watford,WAT,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-08-29T13:00:00Z,FINISHED,3,Burnley FC,Burnley,BUR,Leeds United FC,Leeds United,LEE,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-08-29T15:30:00Z,FINISHED,3,Wolverhampton Wanderers FC,Wolverhampton,WOL,Manchester United FC,Man United,MUN,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-11T11:30:00Z,FINISHED,4,Crystal Palace FC,Crystal Palace,CRY,Tottenham Hotspur FC,Tottenham,TOT,3,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-11T14:00:00Z,FINISHED,4,Watford FC,Watford,WAT,Wolverhampton Wanderers FC,Wolverhampton,WOL,0,2,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-11T14:00:00Z,FINISHED,4,Southampton FC,Southampton,SOU,West Ham United FC,West Ham,WHU,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-11T14:00:00Z,FINISHED,4,Manchester United FC,Man United,MUN,Newcastle United FC,Newcastle,NEW,4,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-09-11T14:00:00Z,FINISHED,4,Leicester City FC,Leicester City,LEI,Manchester City FC,Man City,MCI,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-11T14:00:00Z,FINISHED,4,Brentford FC,Brentford,BRE,Brighton & Hove Albion FC,Brighton Hove,BHA,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-11T14:00:00Z,FINISHED,4,Arsenal FC,Arsenal,ARS,Norwich City FC,Norwich,NOR,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-11T16:30:00Z,FINISHED,4,Chelsea FC,Chelsea,CHE,Aston Villa FC,Aston Villa,AVL,3,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-09-12T15:30:00Z,FINISHED,4,Leeds United FC,Leeds United,LEE,Liverpool FC,Liverpool,LIV,0,3,0,1
+Premier League,2021-08-13,2022-05-22,2021-09-13T19:00:00Z,FINISHED,4,Everton FC,Everton,EVE,Burnley FC,Burnley,BUR,3,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-17T19:00:00Z,FINISHED,5,Newcastle United FC,Newcastle,NEW,Leeds United FC,Leeds United,LEE,1,1,1,1
+Premier League,2021-08-13,2022-05-22,2021-09-18T11:30:00Z,FINISHED,5,Wolverhampton Wanderers FC,Wolverhampton,WOL,Brentford FC,Brentford,BRE,0,2,0,2
+Premier League,2021-08-13,2022-05-22,2021-09-18T14:00:00Z,FINISHED,5,Norwich City FC,Norwich,NOR,Watford FC,Watford,WAT,1,3,1,1
+Premier League,2021-08-13,2022-05-22,2021-09-18T14:00:00Z,FINISHED,5,Manchester City FC,Man City,MCI,Southampton FC,Southampton,SOU,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-18T14:00:00Z,FINISHED,5,Liverpool FC,Liverpool,LIV,Crystal Palace FC,Crystal Palace,CRY,3,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-09-18T14:00:00Z,FINISHED,5,Burnley FC,Burnley,BUR,Arsenal FC,Arsenal,ARS,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-09-18T16:30:00Z,FINISHED,5,Aston Villa FC,Aston Villa,AVL,Everton FC,Everton,EVE,3,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-19T13:00:00Z,FINISHED,5,West Ham United FC,West Ham,WHU,Manchester United FC,Man United,MUN,1,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-09-19T13:00:00Z,FINISHED,5,Brighton & Hove Albion FC,Brighton Hove,BHA,Leicester City FC,Leicester City,LEI,2,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-09-19T15:30:00Z,FINISHED,5,Tottenham Hotspur FC,Tottenham,TOT,Chelsea FC,Chelsea,CHE,0,3,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-25T11:30:00Z,FINISHED,6,Manchester United FC,Man United,MUN,Aston Villa FC,Aston Villa,AVL,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-25T11:30:00Z,FINISHED,6,Chelsea FC,Chelsea,CHE,Manchester City FC,Man City,MCI,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-25T14:00:00Z,FINISHED,6,Watford FC,Watford,WAT,Newcastle United FC,Newcastle,NEW,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-09-25T14:00:00Z,FINISHED,6,Leicester City FC,Leicester City,LEI,Burnley FC,Burnley,BUR,2,2,1,2
+Premier League,2021-08-13,2022-05-22,2021-09-25T14:00:00Z,FINISHED,6,Leeds United FC,Leeds United,LEE,West Ham United FC,West Ham,WHU,1,2,1,0
+Premier League,2021-08-13,2022-05-22,2021-09-25T14:00:00Z,FINISHED,6,Everton FC,Everton,EVE,Norwich City FC,Norwich,NOR,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-09-25T16:30:00Z,FINISHED,6,Brentford FC,Brentford,BRE,Liverpool FC,Liverpool,LIV,3,3,1,1
+Premier League,2021-08-13,2022-05-22,2021-09-26T13:00:00Z,FINISHED,6,Southampton FC,Southampton,SOU,Wolverhampton Wanderers FC,Wolverhampton,WOL,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-09-26T15:30:00Z,FINISHED,6,Arsenal FC,Arsenal,ARS,Tottenham Hotspur FC,Tottenham,TOT,3,1,3,0
+Premier League,2021-08-13,2022-05-22,2021-09-27T19:00:00Z,FINISHED,6,Crystal Palace FC,Crystal Palace,CRY,Brighton & Hove Albion FC,Brighton Hove,BHA,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-10-02T11:30:00Z,FINISHED,7,Manchester United FC,Man United,MUN,Everton FC,Everton,EVE,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-10-02T14:00:00Z,FINISHED,7,Wolverhampton Wanderers FC,Wolverhampton,WOL,Newcastle United FC,Newcastle,NEW,2,1,1,1
+Premier League,2021-08-13,2022-05-22,2021-10-02T14:00:00Z,FINISHED,7,Leeds United FC,Leeds United,LEE,Watford FC,Watford,WAT,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-10-02T14:00:00Z,FINISHED,7,Chelsea FC,Chelsea,CHE,Southampton FC,Southampton,SOU,3,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-10-02T14:00:00Z,FINISHED,7,Burnley FC,Burnley,BUR,Norwich City FC,Norwich,NOR,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-02T16:30:00Z,FINISHED,7,Brighton & Hove Albion FC,Brighton Hove,BHA,Arsenal FC,Arsenal,ARS,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-03T13:00:00Z,FINISHED,7,West Ham United FC,West Ham,WHU,Brentford FC,Brentford,BRE,1,2,0,1
+Premier League,2021-08-13,2022-05-22,2021-10-03T13:00:00Z,FINISHED,7,Tottenham Hotspur FC,Tottenham,TOT,Aston Villa FC,Aston Villa,AVL,2,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-10-03T13:00:00Z,FINISHED,7,Crystal Palace FC,Crystal Palace,CRY,Leicester City FC,Leicester City,LEI,2,2,0,2
+Premier League,2021-08-13,2022-05-22,2021-10-03T15:30:00Z,FINISHED,7,Liverpool FC,Liverpool,LIV,Manchester City FC,Man City,MCI,2,2,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-16T11:30:00Z,FINISHED,8,Watford FC,Watford,WAT,Liverpool FC,Liverpool,LIV,0,5,0,2
+Premier League,2021-08-13,2022-05-22,2021-10-16T14:00:00Z,FINISHED,8,Southampton FC,Southampton,SOU,Leeds United FC,Leeds United,LEE,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-16T14:00:00Z,FINISHED,8,Norwich City FC,Norwich,NOR,Brighton & Hove Albion FC,Brighton Hove,BHA,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-16T14:00:00Z,FINISHED,8,Manchester City FC,Man City,MCI,Burnley FC,Burnley,BUR,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-10-16T14:00:00Z,FINISHED,8,Leicester City FC,Leicester City,LEI,Manchester United FC,Man United,MUN,4,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-10-16T14:00:00Z,FINISHED,8,Aston Villa FC,Aston Villa,AVL,Wolverhampton Wanderers FC,Wolverhampton,WOL,2,3,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-16T16:30:00Z,FINISHED,8,Brentford FC,Brentford,BRE,Chelsea FC,Chelsea,CHE,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-10-17T13:00:00Z,FINISHED,8,Everton FC,Everton,EVE,West Ham United FC,West Ham,WHU,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-17T15:30:00Z,FINISHED,8,Newcastle United FC,Newcastle,NEW,Tottenham Hotspur FC,Tottenham,TOT,2,3,1,3
+Premier League,2021-08-13,2022-05-22,2021-10-18T19:00:00Z,FINISHED,8,Arsenal FC,Arsenal,ARS,Crystal Palace FC,Crystal Palace,CRY,2,2,1,0
+Premier League,2021-08-13,2022-05-22,2021-10-22T19:00:00Z,FINISHED,9,Arsenal FC,Arsenal,ARS,Aston Villa FC,Aston Villa,AVL,3,1,2,0
+Premier League,2021-08-13,2022-05-22,2021-10-23T11:30:00Z,FINISHED,9,Chelsea FC,Chelsea,CHE,Norwich City FC,Norwich,NOR,7,0,3,0
+Premier League,2021-08-13,2022-05-22,2021-10-23T14:00:00Z,FINISHED,9,Southampton FC,Southampton,SOU,Burnley FC,Burnley,BUR,2,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-10-23T14:00:00Z,FINISHED,9,Leeds United FC,Leeds United,LEE,Wolverhampton Wanderers FC,Wolverhampton,WOL,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-10-23T14:00:00Z,FINISHED,9,Everton FC,Everton,EVE,Watford FC,Watford,WAT,2,5,1,1
+Premier League,2021-08-13,2022-05-22,2021-10-23T14:00:00Z,FINISHED,9,Crystal Palace FC,Crystal Palace,CRY,Newcastle United FC,Newcastle,NEW,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-23T16:30:00Z,FINISHED,9,Brighton & Hove Albion FC,Brighton Hove,BHA,Manchester City FC,Man City,MCI,1,4,0,3
+Premier League,2021-08-13,2022-05-22,2021-10-24T13:00:00Z,FINISHED,9,West Ham United FC,West Ham,WHU,Tottenham Hotspur FC,Tottenham,TOT,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-24T13:00:00Z,FINISHED,9,Brentford FC,Brentford,BRE,Leicester City FC,Leicester City,LEI,1,2,0,1
+Premier League,2021-08-13,2022-05-22,2021-10-24T15:30:00Z,FINISHED,9,Manchester United FC,Man United,MUN,Liverpool FC,Liverpool,LIV,0,5,0,4
+Premier League,2021-08-13,2022-05-22,2021-10-30T11:30:00Z,FINISHED,10,Leicester City FC,Leicester City,LEI,Arsenal FC,Arsenal,ARS,0,2,0,2
+Premier League,2021-08-13,2022-05-22,2021-10-30T14:00:00Z,FINISHED,10,Watford FC,Watford,WAT,Southampton FC,Southampton,SOU,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-10-30T14:00:00Z,FINISHED,10,Newcastle United FC,Newcastle,NEW,Chelsea FC,Chelsea,CHE,0,3,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-30T14:00:00Z,FINISHED,10,Manchester City FC,Man City,MCI,Crystal Palace FC,Crystal Palace,CRY,0,2,0,1
+Premier League,2021-08-13,2022-05-22,2021-10-30T14:00:00Z,FINISHED,10,Liverpool FC,Liverpool,LIV,Brighton & Hove Albion FC,Brighton Hove,BHA,2,2,2,1
+Premier League,2021-08-13,2022-05-22,2021-10-30T14:00:00Z,FINISHED,10,Burnley FC,Burnley,BUR,Brentford FC,Brentford,BRE,3,1,3,0
+Premier League,2021-08-13,2022-05-22,2021-10-30T16:30:00Z,FINISHED,10,Tottenham Hotspur FC,Tottenham,TOT,Manchester United FC,Man United,MUN,0,3,0,1
+Premier League,2021-08-13,2022-05-22,2021-10-31T14:00:00Z,FINISHED,10,Norwich City FC,Norwich,NOR,Leeds United FC,Leeds United,LEE,1,2,0,0
+Premier League,2021-08-13,2022-05-22,2021-10-31T16:30:00Z,FINISHED,10,Aston Villa FC,Aston Villa,AVL,West Ham United FC,West Ham,WHU,1,4,1,2
+Premier League,2021-08-13,2022-05-22,2021-11-01T20:00:00Z,FINISHED,10,Wolverhampton Wanderers FC,Wolverhampton,WOL,Everton FC,Everton,EVE,2,1,2,0
+Premier League,2021-08-13,2022-05-22,2021-11-05T20:00:00Z,FINISHED,11,Southampton FC,Southampton,SOU,Aston Villa FC,Aston Villa,AVL,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-11-06T12:30:00Z,FINISHED,11,Manchester United FC,Man United,MUN,Manchester City FC,Man City,MCI,0,2,0,2
+Premier League,2021-08-13,2022-05-22,2021-11-06T15:00:00Z,FINISHED,11,Crystal Palace FC,Crystal Palace,CRY,Wolverhampton Wanderers FC,Wolverhampton,WOL,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-06T15:00:00Z,FINISHED,11,Chelsea FC,Chelsea,CHE,Burnley FC,Burnley,BUR,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-11-06T15:00:00Z,FINISHED,11,Brentford FC,Brentford,BRE,Norwich City FC,Norwich,NOR,1,2,0,2
+Premier League,2021-08-13,2022-05-22,2021-11-06T17:30:00Z,FINISHED,11,Brighton & Hove Albion FC,Brighton Hove,BHA,Newcastle United FC,Newcastle,NEW,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-11-07T14:00:00Z,FINISHED,11,Leeds United FC,Leeds United,LEE,Leicester City FC,Leicester City,LEI,1,1,1,1
+Premier League,2021-08-13,2022-05-22,2021-11-07T14:00:00Z,FINISHED,11,Everton FC,Everton,EVE,Tottenham Hotspur FC,Tottenham,TOT,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-07T14:00:00Z,FINISHED,11,Arsenal FC,Arsenal,ARS,Watford FC,Watford,WAT,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-07T16:30:00Z,FINISHED,11,West Ham United FC,West Ham,WHU,Liverpool FC,Liverpool,LIV,3,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-11-20T12:30:00Z,FINISHED,12,Leicester City FC,Leicester City,LEI,Chelsea FC,Chelsea,CHE,0,3,0,2
+Premier League,2021-08-13,2022-05-22,2021-11-20T15:00:00Z,FINISHED,12,Wolverhampton Wanderers FC,Wolverhampton,WOL,West Ham United FC,West Ham,WHU,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-20T15:00:00Z,FINISHED,12,Watford FC,Watford,WAT,Manchester United FC,Man United,MUN,4,1,2,0
+Premier League,2021-08-13,2022-05-22,2021-11-20T15:00:00Z,FINISHED,12,Norwich City FC,Norwich,NOR,Southampton FC,Southampton,SOU,2,1,1,1
+Premier League,2021-08-13,2022-05-22,2021-11-20T15:00:00Z,FINISHED,12,Newcastle United FC,Newcastle,NEW,Brentford FC,Brentford,BRE,3,3,2,2
+Premier League,2021-08-13,2022-05-22,2021-11-20T15:00:00Z,FINISHED,12,Burnley FC,Burnley,BUR,Crystal Palace FC,Crystal Palace,CRY,3,3,2,3
+Premier League,2021-08-13,2022-05-22,2021-11-20T15:00:00Z,FINISHED,12,Aston Villa FC,Aston Villa,AVL,Brighton & Hove Albion FC,Brighton Hove,BHA,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-20T17:30:00Z,FINISHED,12,Liverpool FC,Liverpool,LIV,Arsenal FC,Arsenal,ARS,4,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-11-21T14:00:00Z,FINISHED,12,Manchester City FC,Man City,MCI,Everton FC,Everton,EVE,3,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-11-21T16:30:00Z,FINISHED,12,Tottenham Hotspur FC,Tottenham,TOT,Leeds United FC,Leeds United,LEE,2,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-11-27T12:30:00Z,FINISHED,13,Arsenal FC,Arsenal,ARS,Newcastle United FC,Newcastle,NEW,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-27T15:00:00Z,FINISHED,13,Norwich City FC,Norwich,NOR,Wolverhampton Wanderers FC,Wolverhampton,WOL,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-27T15:00:00Z,FINISHED,13,Liverpool FC,Liverpool,LIV,Southampton FC,Southampton,SOU,4,0,3,0
+Premier League,2021-08-13,2022-05-22,2021-11-27T15:00:00Z,FINISHED,13,Crystal Palace FC,Crystal Palace,CRY,Aston Villa FC,Aston Villa,AVL,1,2,0,1
+Premier League,2021-08-13,2022-05-22,2021-11-27T17:30:00Z,FINISHED,13,Brighton & Hove Albion FC,Brighton Hove,BHA,Leeds United FC,Leeds United,LEE,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-28T14:00:00Z,FINISHED,13,Manchester City FC,Man City,MCI,West Ham United FC,West Ham,WHU,2,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-11-28T14:00:00Z,FINISHED,13,Leicester City FC,Leicester City,LEI,Watford FC,Watford,WAT,4,2,3,1
+Premier League,2021-08-13,2022-05-22,2021-11-28T14:00:00Z,FINISHED,13,Brentford FC,Brentford,BRE,Everton FC,Everton,EVE,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-11-28T16:30:00Z,FINISHED,13,Chelsea FC,Chelsea,CHE,Manchester United FC,Man United,MUN,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-30T19:30:00Z,FINISHED,14,Newcastle United FC,Newcastle,NEW,Norwich City FC,Norwich,NOR,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-11-30T20:15:00Z,FINISHED,14,Leeds United FC,Leeds United,LEE,Crystal Palace FC,Crystal Palace,CRY,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-01T19:30:00Z,FINISHED,14,Southampton FC,Southampton,SOU,Leicester City FC,Leicester City,LEI,2,2,2,1
+Premier League,2021-08-13,2022-05-22,2021-12-01T19:30:00Z,FINISHED,14,Wolverhampton Wanderers FC,Wolverhampton,WOL,Burnley FC,Burnley,BUR,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-01T19:30:00Z,FINISHED,14,West Ham United FC,West Ham,WHU,Brighton & Hove Albion FC,Brighton Hove,BHA,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-01T19:30:00Z,FINISHED,14,Watford FC,Watford,WAT,Chelsea FC,Chelsea,CHE,1,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-12-01T20:15:00Z,FINISHED,14,Everton FC,Everton,EVE,Liverpool FC,Liverpool,LIV,1,4,1,2
+Premier League,2021-08-13,2022-05-22,2021-12-01T20:15:00Z,FINISHED,14,Aston Villa FC,Aston Villa,AVL,Manchester City FC,Man City,MCI,1,2,0,2
+Premier League,2021-08-13,2022-05-22,2021-12-02T19:30:00Z,FINISHED,14,Tottenham Hotspur FC,Tottenham,TOT,Brentford FC,Brentford,BRE,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-02T20:15:00Z,FINISHED,14,Manchester United FC,Man United,MUN,Arsenal FC,Arsenal,ARS,3,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-12-04T12:30:00Z,FINISHED,15,West Ham United FC,West Ham,WHU,Chelsea FC,Chelsea,CHE,3,2,1,2
+Premier League,2021-08-13,2022-05-22,2021-12-04T15:00:00Z,FINISHED,15,Wolverhampton Wanderers FC,Wolverhampton,WOL,Liverpool FC,Liverpool,LIV,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-04T15:00:00Z,FINISHED,15,Southampton FC,Southampton,SOU,Brighton & Hove Albion FC,Brighton Hove,BHA,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-04T15:00:00Z,FINISHED,15,Newcastle United FC,Newcastle,NEW,Burnley FC,Burnley,BUR,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-04T17:30:00Z,FINISHED,15,Watford FC,Watford,WAT,Manchester City FC,Man City,MCI,1,3,0,2
+Premier League,2021-08-13,2022-05-22,2021-12-05T14:00:00Z,FINISHED,15,Tottenham Hotspur FC,Tottenham,TOT,Norwich City FC,Norwich,NOR,3,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-05T14:00:00Z,FINISHED,15,Manchester United FC,Man United,MUN,Crystal Palace FC,Crystal Palace,CRY,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-05T14:00:00Z,FINISHED,15,Leeds United FC,Leeds United,LEE,Brentford FC,Brentford,BRE,2,2,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-05T16:30:00Z,FINISHED,15,Aston Villa FC,Aston Villa,AVL,Leicester City FC,Leicester City,LEI,2,1,1,1
+Premier League,2021-08-13,2022-05-22,2021-12-06T20:00:00Z,FINISHED,15,Everton FC,Everton,EVE,Arsenal FC,Arsenal,ARS,2,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-12-10T20:00:00Z,FINISHED,16,Brentford FC,Brentford,BRE,Watford FC,Watford,WAT,2,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-12-11T12:30:00Z,FINISHED,16,Manchester City FC,Man City,MCI,Wolverhampton Wanderers FC,Wolverhampton,WOL,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-11T15:00:00Z,FINISHED,16,Liverpool FC,Liverpool,LIV,Aston Villa FC,Aston Villa,AVL,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-11T15:00:00Z,FINISHED,16,Chelsea FC,Chelsea,CHE,Leeds United FC,Leeds United,LEE,3,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-12-11T15:00:00Z,FINISHED,16,Arsenal FC,Arsenal,ARS,Southampton FC,Southampton,SOU,3,0,2,0
+Premier League,2021-08-13,2022-05-22,2021-12-11T17:30:00Z,FINISHED,16,Norwich City FC,Norwich,NOR,Manchester United FC,Man United,MUN,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-12T14:00:00Z,FINISHED,16,Leicester City FC,Leicester City,LEI,Newcastle United FC,Newcastle,NEW,4,0,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-12T14:00:00Z,FINISHED,16,Burnley FC,Burnley,BUR,West Ham United FC,West Ham,WHU,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-12T16:30:00Z,FINISHED,16,Crystal Palace FC,Crystal Palace,CRY,Everton FC,Everton,EVE,3,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-14T19:45:00Z,FINISHED,17,Norwich City FC,Norwich,NOR,Aston Villa FC,Aston Villa,AVL,0,2,0,1
+Premier League,2021-08-13,2022-05-22,2021-12-14T20:00:00Z,FINISHED,17,Manchester City FC,Man City,MCI,Leeds United FC,Leeds United,LEE,7,0,3,0
+Premier League,2021-08-13,2022-05-22,2021-12-15T19:30:00Z,FINISHED,17,Crystal Palace FC,Crystal Palace,CRY,Southampton FC,Southampton,SOU,2,2,1,2
+Premier League,2021-08-13,2022-05-22,2021-12-15T19:30:00Z,FINISHED,17,Brighton & Hove Albion FC,Brighton Hove,BHA,Wolverhampton Wanderers FC,Wolverhampton,WOL,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-12-15T20:00:00Z,FINISHED,17,Arsenal FC,Arsenal,ARS,West Ham United FC,West Ham,WHU,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-16T19:45:00Z,FINISHED,17,Chelsea FC,Chelsea,CHE,Everton FC,Everton,EVE,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-16T20:00:00Z,FINISHED,17,Liverpool FC,Liverpool,LIV,Newcastle United FC,Newcastle,NEW,3,1,2,1
+Premier League,2021-08-13,2022-05-22,2021-12-18T17:30:00Z,FINISHED,18,Leeds United FC,Leeds United,LEE,Arsenal FC,Arsenal,ARS,1,4,0,3
+Premier League,2021-08-13,2022-05-22,2021-12-19T14:00:00Z,FINISHED,18,Wolverhampton Wanderers FC,Wolverhampton,WOL,Chelsea FC,Chelsea,CHE,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-19T14:00:00Z,FINISHED,18,Newcastle United FC,Newcastle,NEW,Manchester City FC,Man City,MCI,0,4,0,2
+Premier League,2021-08-13,2022-05-22,2021-12-19T16:30:00Z,FINISHED,18,Tottenham Hotspur FC,Tottenham,TOT,Liverpool FC,Liverpool,LIV,2,2,1,1
+Premier League,2021-08-13,2022-05-22,2021-12-26T15:00:00Z,FINISHED,19,West Ham United FC,West Ham,WHU,Southampton FC,Southampton,SOU,2,3,0,1
+Premier League,2021-08-13,2022-05-22,2021-12-26T15:00:00Z,FINISHED,19,Tottenham Hotspur FC,Tottenham,TOT,Crystal Palace FC,Crystal Palace,CRY,3,0,2,0
+Premier League,2021-08-13,2022-05-22,2021-12-26T15:00:00Z,FINISHED,19,Norwich City FC,Norwich,NOR,Arsenal FC,Arsenal,ARS,0,5,0,2
+Premier League,2021-08-13,2022-05-22,2021-12-26T15:00:00Z,FINISHED,19,Manchester City FC,Man City,MCI,Leicester City FC,Leicester City,LEI,6,3,4,0
+Premier League,2021-08-13,2022-05-22,2021-12-26T17:30:00Z,FINISHED,19,Aston Villa FC,Aston Villa,AVL,Chelsea FC,Chelsea,CHE,1,3,1,1
+Premier League,2021-08-13,2022-05-22,2021-12-26T20:00:00Z,FINISHED,19,Brighton & Hove Albion FC,Brighton Hove,BHA,Brentford FC,Brentford,BRE,2,0,2,0
+Premier League,2021-08-13,2022-05-22,2021-12-27T20:00:00Z,FINISHED,19,Newcastle United FC,Newcastle,NEW,Manchester United FC,Man United,MUN,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-28T15:00:00Z,FINISHED,20,Crystal Palace FC,Crystal Palace,CRY,Norwich City FC,Norwich,NOR,3,0,3,0
+Premier League,2021-08-13,2022-05-22,2021-12-28T15:00:00Z,FINISHED,20,Watford FC,Watford,WAT,West Ham United FC,West Ham,WHU,1,4,1,2
+Premier League,2021-08-13,2022-05-22,2021-12-28T15:00:00Z,FINISHED,20,Southampton FC,Southampton,SOU,Tottenham Hotspur FC,Tottenham,TOT,1,1,1,1
+Premier League,2021-08-13,2022-05-22,2021-12-28T20:00:00Z,FINISHED,20,Leicester City FC,Leicester City,LEI,Liverpool FC,Liverpool,LIV,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2021-12-29T19:30:00Z,FINISHED,20,Chelsea FC,Chelsea,CHE,Brighton & Hove Albion FC,Brighton Hove,BHA,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2021-12-29T20:15:00Z,FINISHED,20,Brentford FC,Brentford,BRE,Manchester City FC,Man City,MCI,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2021-12-30T20:15:00Z,FINISHED,20,Manchester United FC,Man United,MUN,Burnley FC,Burnley,BUR,3,1,3,1
+Premier League,2021-08-13,2022-05-22,2022-01-01T12:30:00Z,FINISHED,21,Arsenal FC,Arsenal,ARS,Manchester City FC,Man City,MCI,1,2,1,0
+Premier League,2021-08-13,2022-05-22,2022-01-01T15:00:00Z,FINISHED,21,Watford FC,Watford,WAT,Tottenham Hotspur FC,Tottenham,TOT,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-01T17:30:00Z,FINISHED,21,Crystal Palace FC,Crystal Palace,CRY,West Ham United FC,West Ham,WHU,2,3,0,3
+Premier League,2021-08-13,2022-05-22,2022-01-02T14:00:00Z,FINISHED,21,Leeds United FC,Leeds United,LEE,Burnley FC,Burnley,BUR,3,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-01-02T14:00:00Z,FINISHED,21,Everton FC,Everton,EVE,Brighton & Hove Albion FC,Brighton Hove,BHA,2,3,0,2
+Premier League,2021-08-13,2022-05-22,2022-01-02T14:00:00Z,FINISHED,21,Brentford FC,Brentford,BRE,Aston Villa FC,Aston Villa,AVL,2,1,1,1
+Premier League,2021-08-13,2022-05-22,2022-01-02T16:30:00Z,FINISHED,21,Chelsea FC,Chelsea,CHE,Liverpool FC,Liverpool,LIV,2,2,2,2
+Premier League,2021-08-13,2022-05-22,2022-01-03T17:30:00Z,FINISHED,21,Manchester United FC,Man United,MUN,Wolverhampton Wanderers FC,Wolverhampton,WOL,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-11T19:45:00Z,FINISHED,18,Southampton FC,Southampton,SOU,Brentford FC,Brentford,BRE,4,1,2,1
+Premier League,2021-08-13,2022-05-22,2022-01-12T19:45:00Z,FINISHED,18,West Ham United FC,West Ham,WHU,Norwich City FC,Norwich,NOR,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-01-14T20:00:00Z,FINISHED,22,Brighton & Hove Albion FC,Brighton Hove,BHA,Crystal Palace FC,Crystal Palace,CRY,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-15T12:30:00Z,FINISHED,22,Manchester City FC,Man City,MCI,Chelsea FC,Chelsea,CHE,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-15T15:00:00Z,FINISHED,22,Wolverhampton Wanderers FC,Wolverhampton,WOL,Southampton FC,Southampton,SOU,3,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-01-15T15:00:00Z,FINISHED,22,Norwich City FC,Norwich,NOR,Everton FC,Everton,EVE,2,1,2,0
+Premier League,2021-08-13,2022-05-22,2022-01-15T15:00:00Z,FINISHED,22,Newcastle United FC,Newcastle,NEW,Watford FC,Watford,WAT,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-15T17:30:00Z,FINISHED,22,Aston Villa FC,Aston Villa,AVL,Manchester United FC,Man United,MUN,2,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-01-16T14:00:00Z,FINISHED,22,West Ham United FC,West Ham,WHU,Leeds United FC,Leeds United,LEE,2,3,1,2
+Premier League,2021-08-13,2022-05-22,2022-01-16T14:00:00Z,FINISHED,22,Liverpool FC,Liverpool,LIV,Brentford FC,Brentford,BRE,3,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-01-18T20:00:00Z,FINISHED,24,Brighton & Hove Albion FC,Brighton Hove,BHA,Chelsea FC,Chelsea,CHE,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-01-19T19:30:00Z,FINISHED,17,Leicester City FC,Leicester City,LEI,Tottenham Hotspur FC,Tottenham,TOT,2,3,1,1
+Premier League,2021-08-13,2022-05-22,2022-01-19T20:00:00Z,FINISHED,17,Brentford FC,Brentford,BRE,Manchester United FC,Man United,MUN,1,3,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-21T20:00:00Z,FINISHED,23,Watford FC,Watford,WAT,Norwich City FC,Norwich,NOR,0,3,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-22T12:30:00Z,FINISHED,23,Everton FC,Everton,EVE,Aston Villa FC,Aston Villa,AVL,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-01-22T15:00:00Z,FINISHED,23,Manchester United FC,Man United,MUN,West Ham United FC,West Ham,WHU,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-22T15:00:00Z,FINISHED,23,Leeds United FC,Leeds United,LEE,Newcastle United FC,Newcastle,NEW,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-22T15:00:00Z,FINISHED,23,Brentford FC,Brentford,BRE,Wolverhampton Wanderers FC,Wolverhampton,WOL,1,2,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-22T17:30:00Z,FINISHED,23,Southampton FC,Southampton,SOU,Manchester City FC,Man City,MCI,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-01-23T14:00:00Z,FINISHED,23,Leicester City FC,Leicester City,LEI,Brighton & Hove Albion FC,Brighton Hove,BHA,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-23T14:00:00Z,FINISHED,23,Crystal Palace FC,Crystal Palace,CRY,Liverpool FC,Liverpool,LIV,1,3,0,2
+Premier League,2021-08-13,2022-05-22,2022-01-23T14:00:00Z,FINISHED,23,Arsenal FC,Arsenal,ARS,Burnley FC,Burnley,BUR,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-01-23T16:30:00Z,FINISHED,23,Chelsea FC,Chelsea,CHE,Tottenham Hotspur FC,Tottenham,TOT,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-05T18:00:00Z,FINISHED,17,Burnley FC,Burnley,BUR,Watford FC,Watford,WAT,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-08T19:45:00Z,FINISHED,24,Newcastle United FC,Newcastle,NEW,Everton FC,Everton,EVE,3,1,1,1
+Premier League,2021-08-13,2022-05-22,2022-02-08T19:45:00Z,FINISHED,24,West Ham United FC,West Ham,WHU,Watford FC,Watford,WAT,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-08T20:00:00Z,FINISHED,24,Burnley FC,Burnley,BUR,Manchester United FC,Man United,MUN,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-02-09T19:45:00Z,FINISHED,24,Manchester City FC,Man City,MCI,Brentford FC,Brentford,BRE,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-02-09T19:45:00Z,FINISHED,24,Tottenham Hotspur FC,Tottenham,TOT,Southampton FC,Southampton,SOU,2,3,1,1
+Premier League,2021-08-13,2022-05-22,2022-02-09T19:45:00Z,FINISHED,24,Norwich City FC,Norwich,NOR,Crystal Palace FC,Crystal Palace,CRY,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-02-09T20:00:00Z,FINISHED,24,Aston Villa FC,Aston Villa,AVL,Leeds United FC,Leeds United,LEE,3,3,3,2
+Premier League,2021-08-13,2022-05-22,2022-02-10T19:45:00Z,FINISHED,24,Liverpool FC,Liverpool,LIV,Leicester City FC,Leicester City,LEI,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-02-10T19:45:00Z,FINISHED,24,Wolverhampton Wanderers FC,Wolverhampton,WOL,Arsenal FC,Arsenal,ARS,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-02-12T12:30:00Z,FINISHED,25,Manchester United FC,Man United,MUN,Southampton FC,Southampton,SOU,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-02-12T15:00:00Z,FINISHED,25,Watford FC,Watford,WAT,Brighton & Hove Albion FC,Brighton Hove,BHA,0,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-02-12T15:00:00Z,FINISHED,25,Everton FC,Everton,EVE,Leeds United FC,Leeds United,LEE,3,0,2,0
+Premier League,2021-08-13,2022-05-22,2022-02-12T15:00:00Z,FINISHED,25,Brentford FC,Brentford,BRE,Crystal Palace FC,Crystal Palace,CRY,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-12T17:30:00Z,FINISHED,25,Norwich City FC,Norwich,NOR,Manchester City FC,Man City,MCI,0,4,0,1
+Premier League,2021-08-13,2022-05-22,2022-02-13T14:00:00Z,FINISHED,25,Tottenham Hotspur FC,Tottenham,TOT,Wolverhampton Wanderers FC,Wolverhampton,WOL,0,2,0,2
+Premier League,2021-08-13,2022-05-22,2022-02-13T14:00:00Z,FINISHED,25,Newcastle United FC,Newcastle,NEW,Aston Villa FC,Aston Villa,AVL,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-02-13T14:00:00Z,FINISHED,25,Burnley FC,Burnley,BUR,Liverpool FC,Liverpool,LIV,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-02-13T16:30:00Z,FINISHED,25,Leicester City FC,Leicester City,LEI,West Ham United FC,West Ham,WHU,2,2,1,1
+Premier League,2021-08-13,2022-05-22,2022-02-15T20:15:00Z,FINISHED,18,Manchester United FC,Man United,MUN,Brighton & Hove Albion FC,Brighton Hove,BHA,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-19T12:30:00Z,FINISHED,26,West Ham United FC,West Ham,WHU,Newcastle United FC,Newcastle,NEW,1,1,1,1
+Premier League,2021-08-13,2022-05-22,2022-02-19T15:00:00Z,FINISHED,26,Southampton FC,Southampton,SOU,Everton FC,Everton,EVE,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-19T15:00:00Z,FINISHED,26,Liverpool FC,Liverpool,LIV,Norwich City FC,Norwich,NOR,3,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-19T15:00:00Z,FINISHED,26,Crystal Palace FC,Crystal Palace,CRY,Chelsea FC,Chelsea,CHE,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-19T15:00:00Z,FINISHED,26,Brighton & Hove Albion FC,Brighton Hove,BHA,Burnley FC,Burnley,BUR,0,3,0,2
+Premier League,2021-08-13,2022-05-22,2022-02-19T15:00:00Z,FINISHED,26,Aston Villa FC,Aston Villa,AVL,Watford FC,Watford,WAT,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-19T15:00:00Z,FINISHED,26,Arsenal FC,Arsenal,ARS,Brentford FC,Brentford,BRE,2,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-19T17:30:00Z,FINISHED,26,Manchester City FC,Man City,MCI,Tottenham Hotspur FC,Tottenham,TOT,2,3,1,1
+Premier League,2021-08-13,2022-05-22,2022-02-20T14:00:00Z,FINISHED,26,Leeds United FC,Leeds United,LEE,Manchester United FC,Man United,MUN,2,4,0,2
+Premier League,2021-08-13,2022-05-22,2022-02-20T16:30:00Z,FINISHED,26,Wolverhampton Wanderers FC,Wolverhampton,WOL,Leicester City FC,Leicester City,LEI,2,1,1,1
+Premier League,2021-08-13,2022-05-22,2022-02-23T19:30:00Z,FINISHED,18,Watford FC,Watford,WAT,Crystal Palace FC,Crystal Palace,CRY,1,4,1,2
+Premier League,2021-08-13,2022-05-22,2022-02-23T19:30:00Z,FINISHED,13,Burnley FC,Burnley,BUR,Tottenham Hotspur FC,Tottenham,TOT,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-23T19:45:00Z,FINISHED,19,Liverpool FC,Liverpool,LIV,Leeds United FC,Leeds United,LEE,6,0,3,0
+Premier League,2021-08-13,2022-05-22,2022-02-24T19:45:00Z,FINISHED,20,Arsenal FC,Arsenal,ARS,Wolverhampton Wanderers FC,Wolverhampton,WOL,2,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-02-25T20:00:00Z,FINISHED,27,Southampton FC,Southampton,SOU,Norwich City FC,Norwich,NOR,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-02-26T12:30:00Z,FINISHED,27,Leeds United FC,Leeds United,LEE,Tottenham Hotspur FC,Tottenham,TOT,0,4,0,3
+Premier League,2021-08-13,2022-05-22,2022-02-26T15:00:00Z,FINISHED,27,Manchester United FC,Man United,MUN,Watford FC,Watford,WAT,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-26T15:00:00Z,FINISHED,27,Crystal Palace FC,Crystal Palace,CRY,Burnley FC,Burnley,BUR,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-02-26T15:00:00Z,FINISHED,27,Brentford FC,Brentford,BRE,Newcastle United FC,Newcastle,NEW,0,2,0,2
+Premier League,2021-08-13,2022-05-22,2022-02-26T15:30:00Z,FINISHED,27,Brighton & Hove Albion FC,Brighton Hove,BHA,Aston Villa FC,Aston Villa,AVL,0,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-02-26T17:30:00Z,FINISHED,27,Everton FC,Everton,EVE,Manchester City FC,Man City,MCI,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-02-27T14:00:00Z,FINISHED,27,West Ham United FC,West Ham,WHU,Wolverhampton Wanderers FC,Wolverhampton,WOL,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-01T19:45:00Z,FINISHED,22,Burnley FC,Burnley,BUR,Leicester City FC,Leicester City,LEI,0,2,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-05T12:30:00Z,FINISHED,28,Leicester City FC,Leicester City,LEI,Leeds United FC,Leeds United,LEE,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-05T15:00:00Z,FINISHED,28,Wolverhampton Wanderers FC,Wolverhampton,WOL,Crystal Palace FC,Crystal Palace,CRY,0,2,0,2
+Premier League,2021-08-13,2022-05-22,2022-03-05T15:00:00Z,FINISHED,28,Norwich City FC,Norwich,NOR,Brentford FC,Brentford,BRE,1,3,0,1
+Premier League,2021-08-13,2022-05-22,2022-03-05T15:00:00Z,FINISHED,28,Newcastle United FC,Newcastle,NEW,Brighton & Hove Albion FC,Brighton Hove,BHA,2,1,2,0
+Premier League,2021-08-13,2022-05-22,2022-03-05T15:00:00Z,FINISHED,28,Burnley FC,Burnley,BUR,Chelsea FC,Chelsea,CHE,0,4,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-05T15:00:00Z,FINISHED,28,Aston Villa FC,Aston Villa,AVL,Southampton FC,Southampton,SOU,4,0,2,0
+Premier League,2021-08-13,2022-05-22,2022-03-05T17:30:00Z,FINISHED,28,Liverpool FC,Liverpool,LIV,West Ham United FC,West Ham,WHU,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-03-06T14:00:00Z,FINISHED,28,Watford FC,Watford,WAT,Arsenal FC,Arsenal,ARS,2,3,1,2
+Premier League,2021-08-13,2022-05-22,2022-03-06T16:30:00Z,FINISHED,28,Manchester City FC,Man City,MCI,Manchester United FC,Man United,MUN,4,1,2,1
+Premier League,2021-08-13,2022-05-22,2022-03-07T20:00:00Z,FINISHED,28,Tottenham Hotspur FC,Tottenham,TOT,Everton FC,Everton,EVE,5,0,3,0
+Premier League,2021-08-13,2022-05-22,2022-03-10T19:30:00Z,FINISHED,19,Wolverhampton Wanderers FC,Wolverhampton,WOL,Watford FC,Watford,WAT,4,0,3,0
+Premier League,2021-08-13,2022-05-22,2022-03-10T19:30:00Z,FINISHED,30,Norwich City FC,Norwich,NOR,Chelsea FC,Chelsea,CHE,1,3,0,2
+Premier League,2021-08-13,2022-05-22,2022-03-10T19:30:00Z,FINISHED,21,Southampton FC,Southampton,SOU,Newcastle United FC,Newcastle,NEW,1,2,1,1
+Premier League,2021-08-13,2022-05-22,2022-03-10T19:45:00Z,FINISHED,20,Leeds United FC,Leeds United,LEE,Aston Villa FC,Aston Villa,AVL,0,3,0,1
+Premier League,2021-08-13,2022-05-22,2022-03-12T12:30:00Z,FINISHED,29,Brighton & Hove Albion FC,Brighton Hove,BHA,Liverpool FC,Liverpool,LIV,0,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-03-12T15:00:00Z,FINISHED,29,Brentford FC,Brentford,BRE,Burnley FC,Burnley,BUR,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-12T17:30:00Z,FINISHED,29,Manchester United FC,Man United,MUN,Tottenham Hotspur FC,Tottenham,TOT,3,2,2,1
+Premier League,2021-08-13,2022-05-22,2022-03-13T14:00:00Z,FINISHED,29,West Ham United FC,West Ham,WHU,Aston Villa FC,Aston Villa,AVL,2,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-13T14:00:00Z,FINISHED,29,Southampton FC,Southampton,SOU,Watford FC,Watford,WAT,1,2,1,2
+Premier League,2021-08-13,2022-05-22,2022-03-13T14:00:00Z,FINISHED,29,Leeds United FC,Leeds United,LEE,Norwich City FC,Norwich,NOR,2,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-03-13T14:00:00Z,FINISHED,29,Everton FC,Everton,EVE,Wolverhampton Wanderers FC,Wolverhampton,WOL,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-13T14:00:00Z,FINISHED,29,Chelsea FC,Chelsea,CHE,Newcastle United FC,Newcastle,NEW,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-13T16:30:00Z,FINISHED,29,Arsenal FC,Arsenal,ARS,Leicester City FC,Leicester City,LEI,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-03-14T20:00:00Z,FINISHED,29,Crystal Palace FC,Crystal Palace,CRY,Manchester City FC,Man City,MCI,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-16T19:30:00Z,FINISHED,16,Brighton & Hove Albion FC,Brighton Hove,BHA,Tottenham Hotspur FC,Tottenham,TOT,0,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-03-16T20:15:00Z,FINISHED,27,Arsenal FC,Arsenal,ARS,Liverpool FC,Liverpool,LIV,0,2,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-17T19:45:00Z,FINISHED,20,Everton FC,Everton,EVE,Newcastle United FC,Newcastle,NEW,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-03-18T20:00:00Z,FINISHED,30,Wolverhampton Wanderers FC,Wolverhampton,WOL,Leeds United FC,Leeds United,LEE,2,3,2,0
+Premier League,2021-08-13,2022-05-22,2022-03-19T12:30:00Z,FINISHED,30,Aston Villa FC,Aston Villa,AVL,Arsenal FC,Arsenal,ARS,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-03-20T14:00:00Z,FINISHED,30,Leicester City FC,Leicester City,LEI,Brentford FC,Brentford,BRE,2,1,2,0
+Premier League,2021-08-13,2022-05-22,2022-03-20T16:30:00Z,FINISHED,30,Tottenham Hotspur FC,Tottenham,TOT,West Ham United FC,West Ham,WHU,3,1,2,1
+Premier League,2021-08-13,2022-05-22,2022-04-02T11:30:00Z,FINISHED,31,Liverpool FC,Liverpool,LIV,Watford FC,Watford,WAT,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-02T14:00:00Z,FINISHED,31,Brighton & Hove Albion FC,Brighton Hove,BHA,Norwich City FC,Norwich,NOR,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-02T14:00:00Z,FINISHED,31,Burnley FC,Burnley,BUR,Manchester City FC,Man City,MCI,0,2,0,2
+Premier League,2021-08-13,2022-05-22,2022-04-02T14:00:00Z,FINISHED,31,Chelsea FC,Chelsea,CHE,Brentford FC,Brentford,BRE,1,4,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-02T14:00:00Z,FINISHED,31,Leeds United FC,Leeds United,LEE,Southampton FC,Southampton,SOU,1,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-02T14:00:00Z,FINISHED,31,Wolverhampton Wanderers FC,Wolverhampton,WOL,Aston Villa FC,Aston Villa,AVL,2,1,2,0
+Premier League,2021-08-13,2022-05-22,2022-04-02T16:30:00Z,FINISHED,31,Manchester United FC,Man United,MUN,Leicester City FC,Leicester City,LEI,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-03T13:00:00Z,FINISHED,31,West Ham United FC,West Ham,WHU,Everton FC,Everton,EVE,2,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-03T15:30:00Z,FINISHED,31,Tottenham Hotspur FC,Tottenham,TOT,Newcastle United FC,Newcastle,NEW,5,1,1,1
+Premier League,2021-08-13,2022-05-22,2022-04-04T19:00:00Z,FINISHED,31,Crystal Palace FC,Crystal Palace,CRY,Arsenal FC,Arsenal,ARS,3,0,2,0
+Premier League,2021-08-13,2022-05-22,2022-04-06T18:30:00Z,FINISHED,19,Burnley FC,Burnley,BUR,Everton FC,Everton,EVE,3,2,1,2
+Premier League,2021-08-13,2022-05-22,2022-04-08T19:00:00Z,FINISHED,32,Newcastle United FC,Newcastle,NEW,Wolverhampton Wanderers FC,Wolverhampton,WOL,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-09T11:30:00Z,FINISHED,32,Everton FC,Everton,EVE,Manchester United FC,Man United,MUN,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-09T14:00:00Z,FINISHED,32,Arsenal FC,Arsenal,ARS,Brighton & Hove Albion FC,Brighton Hove,BHA,1,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-04-09T14:00:00Z,FINISHED,32,Southampton FC,Southampton,SOU,Chelsea FC,Chelsea,CHE,0,6,0,4
+Premier League,2021-08-13,2022-05-22,2022-04-09T14:00:00Z,FINISHED,32,Watford FC,Watford,WAT,Leeds United FC,Leeds United,LEE,0,3,0,1
+Premier League,2021-08-13,2022-05-22,2022-04-09T16:30:00Z,FINISHED,32,Aston Villa FC,Aston Villa,AVL,Tottenham Hotspur FC,Tottenham,TOT,0,4,0,1
+Premier League,2021-08-13,2022-05-22,2022-04-10T13:00:00Z,FINISHED,32,Brentford FC,Brentford,BRE,West Ham United FC,West Ham,WHU,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-10T13:00:00Z,FINISHED,32,Leicester City FC,Leicester City,LEI,Crystal Palace FC,Crystal Palace,CRY,2,1,2,0
+Premier League,2021-08-13,2022-05-22,2022-04-10T13:00:00Z,FINISHED,32,Norwich City FC,Norwich,NOR,Burnley FC,Burnley,BUR,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-10T15:30:00Z,FINISHED,32,Manchester City FC,Man City,MCI,Liverpool FC,Liverpool,LIV,2,2,2,1
+Premier League,2021-08-13,2022-05-22,2022-04-16T11:30:00Z,FINISHED,33,Tottenham Hotspur FC,Tottenham,TOT,Brighton & Hove Albion FC,Brighton Hove,BHA,0,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-16T14:00:00Z,FINISHED,33,Manchester United FC,Man United,MUN,Norwich City FC,Norwich,NOR,3,2,2,1
+Premier League,2021-08-13,2022-05-22,2022-04-16T14:00:00Z,FINISHED,33,Southampton FC,Southampton,SOU,Arsenal FC,Arsenal,ARS,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-16T14:00:00Z,FINISHED,33,Watford FC,Watford,WAT,Brentford FC,Brentford,BRE,1,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-04-17T13:15:00Z,FINISHED,33,Newcastle United FC,Newcastle,NEW,Leicester City FC,Leicester City,LEI,2,1,1,1
+Premier League,2021-08-13,2022-05-22,2022-04-17T13:15:00Z,FINISHED,33,West Ham United FC,West Ham,WHU,Burnley FC,Burnley,BUR,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-04-19T19:00:00Z,FINISHED,30,Liverpool FC,Liverpool,LIV,Manchester United FC,Man United,MUN,4,0,2,0
+Premier League,2021-08-13,2022-05-22,2022-04-20T18:45:00Z,FINISHED,18,Everton FC,Everton,EVE,Leicester City FC,Leicester City,LEI,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-04-20T18:45:00Z,FINISHED,30,Newcastle United FC,Newcastle,NEW,Crystal Palace FC,Crystal Palace,CRY,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-20T18:45:00Z,FINISHED,25,Chelsea FC,Chelsea,CHE,Arsenal FC,Arsenal,ARS,2,4,2,2
+Premier League,2021-08-13,2022-05-22,2022-04-20T19:00:00Z,FINISHED,30,Manchester City FC,Man City,MCI,Brighton & Hove Albion FC,Brighton Hove,BHA,3,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-21T18:45:00Z,FINISHED,30,Burnley FC,Burnley,BUR,Southampton FC,Southampton,SOU,2,0,2,0
+Premier League,2021-08-13,2022-05-22,2022-04-23T11:30:00Z,FINISHED,34,Arsenal FC,Arsenal,ARS,Manchester United FC,Man United,MUN,3,1,2,1
+Premier League,2021-08-13,2022-05-22,2022-04-23T14:00:00Z,FINISHED,34,Leicester City FC,Leicester City,LEI,Aston Villa FC,Aston Villa,AVL,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-23T14:00:00Z,FINISHED,34,Manchester City FC,Man City,MCI,Watford FC,Watford,WAT,5,1,3,1
+Premier League,2021-08-13,2022-05-22,2022-04-23T14:00:00Z,FINISHED,34,Norwich City FC,Norwich,NOR,Newcastle United FC,Newcastle,NEW,0,3,0,2
+Premier League,2021-08-13,2022-05-22,2022-04-23T16:30:00Z,FINISHED,34,Brentford FC,Brentford,BRE,Tottenham Hotspur FC,Tottenham,TOT,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-24T13:00:00Z,FINISHED,34,Brighton & Hove Albion FC,Brighton Hove,BHA,Southampton FC,Southampton,SOU,2,2,2,1
+Premier League,2021-08-13,2022-05-22,2022-04-24T13:00:00Z,FINISHED,34,Burnley FC,Burnley,BUR,Wolverhampton Wanderers FC,Wolverhampton,WOL,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-24T13:00:00Z,FINISHED,34,Chelsea FC,Chelsea,CHE,West Ham United FC,West Ham,WHU,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-24T15:30:00Z,FINISHED,34,Liverpool FC,Liverpool,LIV,Everton FC,Everton,EVE,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-25T19:00:00Z,FINISHED,34,Crystal Palace FC,Crystal Palace,CRY,Leeds United FC,Leeds United,LEE,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-28T18:45:00Z,FINISHED,37,Manchester United FC,Man United,MUN,Chelsea FC,Chelsea,CHE,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-04-30T11:30:00Z,FINISHED,35,Newcastle United FC,Newcastle,NEW,Liverpool FC,Liverpool,LIV,0,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-04-30T14:00:00Z,FINISHED,35,Aston Villa FC,Aston Villa,AVL,Norwich City FC,Norwich,NOR,2,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-30T14:00:00Z,FINISHED,35,Southampton FC,Southampton,SOU,Crystal Palace FC,Crystal Palace,CRY,1,2,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-30T14:00:00Z,FINISHED,35,Watford FC,Watford,WAT,Burnley FC,Burnley,BUR,1,2,1,0
+Premier League,2021-08-13,2022-05-22,2022-04-30T14:00:00Z,FINISHED,35,Wolverhampton Wanderers FC,Wolverhampton,WOL,Brighton & Hove Albion FC,Brighton Hove,BHA,0,3,0,1
+Premier League,2021-08-13,2022-05-22,2022-04-30T16:30:00Z,FINISHED,35,Leeds United FC,Leeds United,LEE,Manchester City FC,Man City,MCI,0,4,0,1
+Premier League,2021-08-13,2022-05-22,2022-05-01T13:00:00Z,FINISHED,35,Everton FC,Everton,EVE,Chelsea FC,Chelsea,CHE,1,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-01T13:00:00Z,FINISHED,35,Tottenham Hotspur FC,Tottenham,TOT,Leicester City FC,Leicester City,LEI,3,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-05-01T15:30:00Z,FINISHED,35,West Ham United FC,West Ham,WHU,Arsenal FC,Arsenal,ARS,1,2,1,1
+Premier League,2021-08-13,2022-05-22,2022-05-02T19:00:00Z,FINISHED,35,Manchester United FC,Man United,MUN,Brentford FC,Brentford,BRE,3,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-05-07T14:00:00Z,FINISHED,36,Brentford FC,Brentford,BRE,Southampton FC,Southampton,SOU,3,0,2,0
+Premier League,2021-08-13,2022-05-22,2022-05-07T14:00:00Z,FINISHED,36,Burnley FC,Burnley,BUR,Aston Villa FC,Aston Villa,AVL,1,3,0,2
+Premier League,2021-08-13,2022-05-22,2022-05-07T14:00:00Z,FINISHED,36,Chelsea FC,Chelsea,CHE,Wolverhampton Wanderers FC,Wolverhampton,WOL,2,2,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-07T14:00:00Z,FINISHED,36,Crystal Palace FC,Crystal Palace,CRY,Watford FC,Watford,WAT,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-05-07T16:30:00Z,FINISHED,36,Brighton & Hove Albion FC,Brighton Hove,BHA,Manchester United FC,Man United,MUN,4,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-05-07T18:45:00Z,FINISHED,36,Liverpool FC,Liverpool,LIV,Tottenham Hotspur FC,Tottenham,TOT,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-08T13:00:00Z,FINISHED,36,Arsenal FC,Arsenal,ARS,Leeds United FC,Leeds United,LEE,2,1,2,0
+Premier League,2021-08-13,2022-05-22,2022-05-08T13:00:00Z,FINISHED,36,Leicester City FC,Leicester City,LEI,Everton FC,Everton,EVE,1,2,1,2
+Premier League,2021-08-13,2022-05-22,2022-05-08T13:00:00Z,FINISHED,36,Norwich City FC,Norwich,NOR,West Ham United FC,West Ham,WHU,0,4,0,3
+Premier League,2021-08-13,2022-05-22,2022-05-08T15:30:00Z,FINISHED,36,Manchester City FC,Man City,MCI,Newcastle United FC,Newcastle,NEW,5,0,2,0
+Premier League,2021-08-13,2022-05-22,2022-05-10T19:00:00Z,FINISHED,33,Aston Villa FC,Aston Villa,AVL,Liverpool FC,Liverpool,LIV,1,2,1,1
+Premier League,2021-08-13,2022-05-22,2022-05-11T18:30:00Z,FINISHED,33,Leeds United FC,Leeds United,LEE,Chelsea FC,Chelsea,CHE,0,3,0,1
+Premier League,2021-08-13,2022-05-22,2022-05-11T18:45:00Z,FINISHED,30,Watford FC,Watford,WAT,Everton FC,Everton,EVE,0,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-11T18:45:00Z,FINISHED,21,Leicester City FC,Leicester City,LEI,Norwich City FC,Norwich,NOR,3,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-11T19:15:00Z,FINISHED,33,Wolverhampton Wanderers FC,Wolverhampton,WOL,Manchester City FC,Man City,MCI,1,5,1,3
+Premier League,2021-08-13,2022-05-22,2022-05-12T18:45:00Z,FINISHED,22,Tottenham Hotspur FC,Tottenham,TOT,Arsenal FC,Arsenal,ARS,3,0,2,0
+Premier League,2021-08-13,2022-05-22,2022-05-15T11:00:00Z,FINISHED,37,Tottenham Hotspur FC,Tottenham,TOT,Burnley FC,Burnley,BUR,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-05-15T13:00:00Z,FINISHED,37,Aston Villa FC,Aston Villa,AVL,Crystal Palace FC,Crystal Palace,CRY,1,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-15T13:00:00Z,FINISHED,37,Leeds United FC,Leeds United,LEE,Brighton & Hove Albion FC,Brighton Hove,BHA,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-05-15T13:00:00Z,FINISHED,37,Watford FC,Watford,WAT,Leicester City FC,Leicester City,LEI,1,5,1,2
+Premier League,2021-08-13,2022-05-22,2022-05-15T13:00:00Z,FINISHED,37,West Ham United FC,West Ham,WHU,Manchester City FC,Man City,MCI,2,2,2,0
+Premier League,2021-08-13,2022-05-22,2022-05-15T13:00:00Z,FINISHED,37,Wolverhampton Wanderers FC,Wolverhampton,WOL,Norwich City FC,Norwich,NOR,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-05-15T15:30:00Z,FINISHED,37,Everton FC,Everton,EVE,Brentford FC,Brentford,BRE,2,3,2,1
+Premier League,2021-08-13,2022-05-22,2022-05-16T19:00:00Z,FINISHED,37,Newcastle United FC,Newcastle,NEW,Arsenal FC,Arsenal,ARS,2,0,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-17T18:45:00Z,FINISHED,37,Southampton FC,Southampton,SOU,Liverpool FC,Liverpool,LIV,1,2,1,1
+Premier League,2021-08-13,2022-05-22,2022-05-19T18:45:00Z,FINISHED,33,Everton FC,Everton,EVE,Crystal Palace FC,Crystal Palace,CRY,3,2,0,2
+Premier League,2021-08-13,2022-05-22,2022-05-19T19:00:00Z,FINISHED,18,Aston Villa FC,Aston Villa,AVL,Burnley FC,Burnley,BUR,1,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-05-19T19:00:00Z,FINISHED,27,Chelsea FC,Chelsea,CHE,Leicester City FC,Leicester City,LEI,1,1,1,1
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Norwich City FC,Norwich,NOR,Tottenham Hotspur FC,Tottenham,TOT,0,5,0,2
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Manchester City FC,Man City,MCI,Aston Villa FC,Aston Villa,AVL,3,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Liverpool FC,Liverpool,LIV,Wolverhampton Wanderers FC,Wolverhampton,WOL,3,1,1,1
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Leicester City FC,Leicester City,LEI,Southampton FC,Southampton,SOU,4,1,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Crystal Palace FC,Crystal Palace,CRY,Manchester United FC,Man United,MUN,1,0,1,0
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Chelsea FC,Chelsea,CHE,Watford FC,Watford,WAT,2,1,1,0
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Burnley FC,Burnley,BUR,Newcastle United FC,Newcastle,NEW,1,2,0,1
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Brighton & Hove Albion FC,Brighton Hove,BHA,West Ham United FC,West Ham,WHU,3,1,0,1
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Brentford FC,Brentford,BRE,Leeds United FC,Leeds United,LEE,1,2,0,0
+Premier League,2021-08-13,2022-05-22,2022-05-22T15:00:00Z,FINISHED,38,Arsenal FC,Arsenal,ARS,Everton FC,Everton,EVE,5,1,2,1

@@ -1,17 +1,8 @@
 # read_match_data.py
 
 import requests
-import json
+import time
 from match import Match
-
-# See API ocumentation for options available: https://docs.football-data.org/general/v4/index.html
-league = 'PL' 
-season = '2021'
-
-uri = 'https://api.football-data.org/v4/competitions/{}/matches?season={}'.format(league, season)
-headers = { 
-    'X-Auth-Token': '13b41abb78284b7482713f316a0e3578',
-           }
 
 def parse_match(json_response):
     matches = []
@@ -36,8 +27,36 @@ def parse_match(json_response):
         matches.append(match)
     return matches
 
-response = requests.get(uri, headers=headers)
-matches_dict = parse_match(response.json()['matches'])
+def next_matches(matches, games=3):
+    unplayed = []
+    for i in matches:
+        if i.status == "TIMED":
+            unplayed.append(i)
+    unplayed = sorted(unplayed, key=lambda Match: Match.date)
+    return unplayed[:games]
+
+def save_matches_as_csv(matches_dict, path):
+    import csv
+    keys = matches_dict[0].keys()
+    with open(path, 'w', encoding='utf8', newline='') as outfile:
+        dict_writer = csv.DictWriter(outfile, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(matches_dict)
+
+# See API documentation for options available: https://docs.football-data.org/general/v4/index.html
+league = 'PL' 
+seasons = ['2020','2021','2022']
+
+headers = { 
+    'X-Auth-Token': '13b41abb78284b7482713f316a0e3578',
+           }
+
+matches_list = []
+for season in seasons:
+    uri = 'https://api.football-data.org/v4/competitions/{}/matches?season={}'.format(league, season)
+    response = requests.get(uri, headers=headers)
+    matches_dict = parse_match(response.json()['matches'])
+    matches_list.extend(matches_dict)
 
 matches = [ Match(d['league'], 
                   d['season_start'],
@@ -54,4 +73,6 @@ matches = [ Match(d['league'],
                   d['home_team_score'],
                   d['away_team_score'],
                   d['home_team_halfscore'],
-                  d['away_team_halfscore'],) for d in matches_dict ]
+                  d['away_team_halfscore'],) for d in matches_list ]
+
+next_matches_list = next_matches(matches)

@@ -1,4 +1,5 @@
 # match.py
+import dateutil.parser
 
 class Match:
     def __init__(self, 
@@ -21,7 +22,7 @@ class Match:
         self.league = league 
         self.season_start = season_start
         self.season_end = season_end
-        self.date = date
+        self.date = dateutil.parser.isoparse(date)
         self.status = status
         self.matchday = matchday
         self.home_team = home_team
@@ -37,12 +38,21 @@ class Match:
     
     @property
     def goal_diff(self):
-        return self.home_team_score - self.away_team_score
+        try:
+            goal_diff = self.home_team_score - self.away_team_score
+        except TypeError:
+            goal_diff = None
+        return goal_diff
     
     @property
     def winner(self):
-        diff = self.home_team_score - self.away_team_score
-        if diff == 0:
+        try:
+            diff = self.home_team_score - self.away_team_score
+        except TypeError:
+            diff = None
+        if diff == None:
+            return None
+        elif diff == 0:
             return "tie"
         elif diff > 0:
             return self.home_team
