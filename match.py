@@ -20,8 +20,8 @@ class Match:
                  home_team_halfscore,
                  away_team_halfscore):
         self.league = league 
-        self.season_start = season_start
-        self.season_end = season_end
+        self.season_start = dateutil.parser.parse(season_start)
+        self.season_end = dateutil.parser.parse(season_end)
         self.date = dateutil.parser.isoparse(date)
         self.status = status
         self.matchday = matchday
