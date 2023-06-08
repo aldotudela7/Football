@@ -1,7 +1,6 @@
 # read_match_data.py
 
 import requests
-import time
 from match import Match
 
 def parse_match(json_response):
